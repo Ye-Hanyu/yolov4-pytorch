@@ -9,7 +9,7 @@ import torch
 import torch.nn as nn
 from nets.yolo4 import YoloBody
 import torch.backends.cudnn as cudnn
-from PIL import Image,ImageFont, ImageDraw
+from PIL import Image, ImageFont, ImageDraw
 from torch.autograd import Variable
 from utils.utils import non_max_suppression, bbox_iou, DecodeBox,letterbox_image,yolo_correct_boxes
 
@@ -103,8 +103,8 @@ class YOLO(object):
     def detect_image(self, image):
         image_shape = np.array(np.shape(image)[0:2])
 
-        crop_img = np.array(letterbox_image(image, (self.model_image_size[0],self.model_image_size[1])))
-        photo = np.array(crop_img,dtype = np.float32)
+        crop_img = np.array(letterbox_image(image, (self.model_image_size[0], self.model_image_size[1])))
+        photo = np.array(crop_img, dtype = np.float32)
         photo /= 255.0
         photo = np.transpose(photo, (2, 0, 1))
         photo = photo.astype(np.float32)
@@ -163,8 +163,9 @@ class YOLO(object):
             draw = ImageDraw.Draw(image)
             label_size = draw.textsize(label, font)
             label = label.encode('utf-8')
-            print(label)
-            
+            print(label)  # 标签
+            print(left, top)  # 左上角点坐标
+            print(right, bottom)  # 右下角点坐标
             if top - label_size[1] >= 0:
                 text_origin = np.array([left, top - label_size[1]])
             else:
@@ -174,10 +175,11 @@ class YOLO(object):
                 draw.rectangle(
                     [left + i, top + i, right - i, bottom - i],
                     outline=self.colors[self.class_names.index(predicted_class)])
+
             draw.rectangle(
                 [tuple(text_origin), tuple(text_origin + label_size)],
                 fill=self.colors[self.class_names.index(predicted_class)])
             draw.text(text_origin, str(label,'UTF-8'), fill=(0, 0, 0), font=font)
             del draw
-        return image
 
+        return image
