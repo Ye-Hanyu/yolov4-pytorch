@@ -1,0 +1,6 @@
+__pycache__/yolo.cpython-37.pyc
+nets/__pycache__/CSPdarknet.cpython-37.pyc
+nets/__pycache__/yolo4.cpython-37.pyc
+utils/__pycache__/utils.cpython-37.pyc
+model_data/yolo4_voc_weights.pth
+model_data/yolo4_weights.pth
