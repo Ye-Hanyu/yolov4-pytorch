@@ -1,2 +1,2 @@
-tvmonitor 0.9981 -7 98 243 345
-tvmonitor 0.9632 259 59 501 340
+tvmonitor 0.9999 -4 96 242 349
+tvmonitor 0.9814 258 54 485 331
