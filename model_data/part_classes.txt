@@ -1,0 +1,6 @@
+gear1
+gear2
+gear-shaft
+planet-carrier
+Screw
+Nut

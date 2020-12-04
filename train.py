@@ -144,7 +144,7 @@ if __name__ == "__main__":
     #-------------------------------------------#
     #   权值文件的下载请看README
     #-------------------------------------------#
-    model_path = "model_data/yolo4_weights.pth"
+    model_path = "model_data/part.pth"
     # 加快模型训练的效率
     print('Loading weights into state dict...')
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -177,7 +177,7 @@ if __name__ == "__main__":
     np.random.seed(None)
     num_val = int(len(lines)*val_split)
     num_train = len(lines) - num_val
-    
+
     #------------------------------------------------------#
     #   主干特征提取网络特征通用，冻结训练可以加快训练速度
     #   也可以在训练初期防止权值被破坏。
@@ -191,12 +191,13 @@ if __name__ == "__main__":
         Batch_size = 4
         Init_Epoch = 0
         Freeze_Epoch = 50
-        
-        optimizer = optim.Adam(net.parameters(),lr,weight_decay=5e-4)
+
+        # optimizer = optim.Adam(net.parameters(),lr,weight_decay=5e-4)
+        optimizer = optim.SGD(net.parameters(),lr,momentum=0.9)
         if Cosine_lr:
             lr_scheduler = optim.lr_scheduler.CosineAnnealingLR(optimizer, T_max=5, eta_min=1e-5)
         else:
-            lr_scheduler = optim.lr_scheduler.StepLR(optimizer,step_size=1,gamma=0.95)
+            lr_scheduler = optim.lr_scheduler.StepLR(optimizer, step_size=1, gamma=0.95)
 
         if Use_Data_Loader:
             train_dataset = YoloDataset(lines[:num_train], (input_shape[0], input_shape[1]), mosaic=mosaic)
@@ -222,6 +223,10 @@ if __name__ == "__main__":
         for epoch in range(Init_Epoch,Freeze_Epoch):
             fit_one_epoch(net,yolo_losses,epoch,epoch_size,epoch_size_val,gen,gen_val,Freeze_Epoch,Cuda)
             lr_scheduler.step()
+            if epoch==1:
+                optimizer = optim.Adam(net.parameters(),lr,weight_decay=5e-4)
+                lr_scheduler = optim.lr_scheduler.StepLR(optimizer, step_size=1, gamma=0.95)
+                print('Adam')
 
     if True:
         lr = 1e-4
@@ -229,7 +234,8 @@ if __name__ == "__main__":
         Freeze_Epoch = 50
         Unfreeze_Epoch = 100
 
-        optimizer = optim.Adam(net.parameters(),lr,weight_decay=5e-4)
+        # optimizer = optim.Adam(net.parameters(),lr,weight_decay=5e-4)
+        optimizer = optim.SGD(net.parameters(),lr,momentum=0.9)
         if Cosine_lr:
             lr_scheduler = optim.lr_scheduler.CosineAnnealingLR(optimizer, T_max=5, eta_min=1e-5)
         else:

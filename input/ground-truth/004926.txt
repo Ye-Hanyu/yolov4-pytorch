@@ -1,0 +1,2 @@
+bottle 217 71 255 230
+diningtable 1 175 498 375

@@ -1,0 +1,1003 @@
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000943.jpg 145,241,500,374,8 234,135,500,316,14 305,146,426,267,14 238,147,356,245,14 223,149,298,223,14 76,140,146,266,14 1,69,178,372,14 330,107,375,159,14 50,114,101,185,14 288,110,321,157,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006260.jpg 100,56,500,233,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005418.jpg 216,97,432,312,9
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003420.jpg 25,216,121,266,6 111,219,203,264,6 178,219,270,262,6 242,223,333,260,6 293,226,380,261,6 351,230,429,261,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007885.jpg 16,29,344,485,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001041.jpg 143,138,283,265,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004223.jpg 184,5,424,327,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004379.jpg 162,181,305,228,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004338.jpg 69,75,450,313,13
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005391.jpg 25,109,463,226,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000459.jpg 26,86,500,332,10
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007168.jpg 48,102,372,424,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000677.jpg 66,54,333,436,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003000.jpg 193,114,278,164,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000095.jpg 20,52,439,285,18 1,125,114,234,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000461.jpg 9,100,323,231,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004424.jpg 166,97,298,500,14 85,90,255,500,14 23,100,57,145,14 100,73,126,122,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009584.jpg 178,4,263,104,7 323,174,487,358,7 256,225,409,375,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009477.jpg 109,63,228,224,14 199,5,332,75,6 107,33,210,88,6 31,39,179,100,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002934.jpg 31,5,393,441,7 2,263,392,500,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006223.jpg 128,90,426,266,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009781.jpg 111,65,462,298,13 224,33,394,269,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009560.jpg 4,3,244,171,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001576.jpg 51,172,458,280,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007148.jpg 36,22,415,333,14 319,49,500,333,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009831.jpg 194,48,500,319,18 60,84,311,289,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009309.jpg 21,74,500,375,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001962.jpg 407,99,500,333,5
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008732.jpg 101,197,223,395,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003458.jpg 120,121,326,474,2 17,161,224,493,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001807.jpg 290,115,411,224,12 201,136,296,216,12 54,105,196,192,12 330,100,363,194,14 238,103,267,185,14 113,85,150,169,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003837.jpg 2,301,172,446,8 27,392,374,500,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007414.jpg 453,50,491,110,14 187,107,386,196,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002012.jpg 135,128,167,255,14 156,118,195,245,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006695.jpg 307,153,433,370,14 196,123,327,373,14 72,138,206,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004566.jpg 76,97,353,315,7 211,1,500,250,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008506.jpg 10,142,93,252,18 89,49,457,291,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006166.jpg 125,122,312,340,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001877.jpg 1,53,498,308,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002613.jpg 277,238,316,347,4 305,227,350,375,4 347,238,391,375,4 388,226,422,365,4 420,227,458,359,4 40,20,262,298,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000918.jpg 18,15,333,500,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004649.jpg 36,126,393,237,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004626.jpg 89,106,479,234,18 1,132,93,224,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004150.jpg 75,247,314,440,7 15,73,248,347,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007538.jpg 134,132,274,337,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005274.jpg 282,103,435,358,11 170,229,277,341,11 102,62,422,344,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000110.jpg 79,233,110,314,14 54,231,86,344,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000637.jpg 10,2,487,373,1
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008588.jpg 289,237,312,282,2 319,200,370,220,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001333.jpg 156,176,203,242,13 189,127,215,197,14 155,139,202,196,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007841.jpg 139,78,244,234,11 229,98,358,287,14 6,134,138,332,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009577.jpg 85,77,181,229,14 1,78,128,363,14 340,87,495,279,14 84,160,495,375,10
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008467.jpg 68,153,251,433,11 179,12,375,486,14 1,109,155,277,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002387.jpg 246,170,342,244,9 220,153,250,252,14 194,128,214,166,14 160,130,188,167,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005078.jpg 75,13,500,375,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001136.jpg 35,153,500,375,3 298,68,422,133,2 248,155,291,222,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006524.jpg 278,2,495,95,6 125,3,302,91,6 1,1,138,94,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007295.jpg 119,141,397,287,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003094.jpg 19,30,500,259,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009729.jpg 104,61,373,259,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002723.jpg 114,183,334,335,13 285,176,472,315,13 411,170,500,334,13 82,184,140,287,13 133,151,196,240,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004015.jpg 73,23,302,375,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009497.jpg 97,106,299,374,14 178,80,319,255,14 403,316,417,361,4 360,312,377,354,4
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000797.jpg 37,127,348,375,11 68,94,424,370,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005314.jpg 6,11,499,358,13
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008966.jpg 128,27,500,303,5
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007626.jpg 34,110,473,266,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007631.jpg 286,1,363,114,14 373,1,435,113,14 327,78,341,116,4 157,75,171,118,4 120,76,136,120,4 40,1,100,116,14 436,117,500,230,8 344,117,425,229,8 65,120,142,224,8 1,121,64,224,8 96,64,327,340,14 257,101,457,375,14 443,255,500,375,14 209,253,317,375,14 92,269,179,375,14 1,262,93,375,14 115,50,237,117,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003373.jpg 232,160,441,329,11 176,1,330,196,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000193.jpg 80,4,500,375,14 1,29,227,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000093.jpg 175,125,344,254,11 53,3,500,338,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005918.jpg 53,27,469,266,6 15,25,126,123,6 385,33,500,123,6 295,29,353,85,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003820.jpg 1,3,500,375,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004705.jpg 394,181,455,226,5 1,206,104,270,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008332.jpg 2,56,359,375,14 233,202,358,375,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009913.jpg 40,82,447,261,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005826.jpg 78,159,132,286,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005624.jpg 206,51,338,291,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006222.jpg 142,53,247,118,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003185.jpg 231,169,316,279,14 312,170,419,287,14 432,210,482,366,4 390,213,415,293,4 105,73,231,375,14 35,66,118,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005636.jpg 131,184,209,382,12 254,211,318,386,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009743.jpg 150,165,342,220,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001158.jpg 267,1,499,350,8 1,2,259,359,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007923.jpg 397,106,450,179,8 189,104,309,189,17 135,147,353,235,17
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004228.jpg 42,71,429,262,6 40,56,122,87,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009410.jpg 10,3,457,375,14 40,125,351,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001164.jpg 76,174,401,373,10 330,121,490,318,14 6,125,131,326,14 104,117,180,223,14 231,104,322,195,14 345,253,456,375,8 157,276,281,375,8 282,213,350,346,8 465,72,500,133,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004051.jpg 116,105,406,351,12 197,41,315,237,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006001.jpg 2,3,500,315,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006825.jpg 150,54,447,278,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003299.jpg 2,3,499,260,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009129.jpg 80,67,480,326,17
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003183.jpg 220,176,243,191,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004019.jpg 394,316,474,360,6 84,323,160,358,6 20,321,85,353,6 364,316,383,367,14 234,310,249,356,14 474,324,500,355,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003430.jpg 150,128,355,324,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000946.jpg 16,108,387,283,18 383,153,500,222,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002879.jpg 7,65,500,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008218.jpg 194,90,495,375,14 124,334,164,375,14 100,273,139,361,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009106.jpg 1,105,356,340,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005550.jpg 222,189,268,256,12 237,176,291,269,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004715.jpg 202,127,331,374,14 159,103,305,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006046.jpg 189,104,243,206,3 261,126,306,204,3
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009272.jpg 14,69,487,219,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005079.jpg 22,110,454,305,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003640.jpg 274,184,444,287,9
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002645.jpg 1,186,47,250,19 194,175,239,244,8 234,176,281,258,8 249,168,383,332,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003233.jpg 1,78,498,344,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001847.jpg 32,245,246,351,3 73,170,470,357,3
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007498.jpg 1,3,309,376,10 124,2,500,376,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004075.jpg 147,369,206,500,4 2,4,255,500,14 199,124,297,225,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005346.jpg 421,43,500,237,15 95,77,394,330,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008716.jpg 196,93,361,207,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009878.jpg 74,119,374,349,17 13,328,49,375,4 87,106,221,254,14 352,109,443,321,14 247,104,355,375,14 170,110,280,351,14 17,3,163,210,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003698.jpg 356,259,404,322,16
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008534.jpg 143,21,487,387,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002088.jpg 1,30,470,332,9
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002411.jpg 129,163,300,259,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005042.jpg 158,205,302,462,1 4,182,147,428,1 155,37,328,399,14 1,46,157,394,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003871.jpg 119,82,313,433,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002027.jpg 270,278,357,295,5
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000654.jpg 36,135,168,227,16 55,152,215,249,16 411,51,463,146,14 368,49,424,146,14 323,81,369,133,14 114,61,171,139,14 86,60,129,139,14 295,178,382,243,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000806.jpg 119,275,333,500,14 1,298,106,500,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001299.jpg 39,26,229,412,9 211,240,319,408,9 318,221,408,435,9
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005368.jpg 27,346,254,500,1 9,18,323,500,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006648.jpg 293,2,435,334,4 3,1,463,332,14 372,204,416,285,14 312,183,346,283,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006748.jpg 47,265,213,385,6 178,180,337,279,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004253.jpg 141,192,252,337,8 181,163,267,291,8 274,182,352,308,8 167,179,348,332,10
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009776.jpg 192,48,321,366,14 39,123,404,357,13 1,107,150,237,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005338.jpg 65,32,178,178,2 234,46,397,361,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007668.jpg 113,91,333,500,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009884.jpg 85,78,400,375,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007421.jpg 149,214,217,315,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001936.jpg 84,185,134,208,0 202,153,255,178,0 249,189,298,211,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006910.jpg 2,192,114,335,2 29,228,122,335,2 184,123,285,215,2 61,16,436,335,14 5,130,81,335,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000770.jpg 125,167,431,375,9 134,65,227,366,14 1,131,42,266,1 229,128,475,361,13
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000417.jpg 174,82,369,375,9
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006689.jpg 300,230,448,374,8 178,185,242,298,8 8,229,224,374,8 249,182,281,269,8 144,186,253,278,10
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002045.jpg 24,43,475,335,6 362,80,500,169,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004171.jpg 97,302,272,433,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002641.jpg 3,85,201,375,14 181,108,341,375,14 275,148,500,375,14 264,287,308,375,4
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003499.jpg 107,26,496,324,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003717.jpg 114,172,358,311,1 353,88,500,203,1 97,32,244,170,1 297,12,489,173,1 238,2,286,93,14 107,1,196,163,14 169,91,320,247,14 27,119,118,319,14 10,270,93,326,14 192,267,254,312,14 29,81,116,297,14 354,2,472,226,14 355,1,409,175,14 1,1,88,162,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007493.jpg 235,146,489,375,14 35,4,373,375,14 1,191,22,291,4
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002413.jpg 89,9,375,499,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002524.jpg 45,125,314,461,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007650.jpg 78,274,156,344,5 156,123,335,414,5 1,316,42,365,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003774.jpg 1,88,428,225,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009434.jpg 16,82,482,301,6 354,15,433,105,14 209,7,284,82,14 160,1,208,45,14 395,1,472,61,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009587.jpg 3,1,500,337,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009209.jpg 139,105,274,213,13 146,86,225,202,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005387.jpg 45,172,415,305,5 2,254,45,269,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000387.jpg 5,18,482,255,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009940.jpg 218,114,387,375,2 135,133,365,375,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007197.jpg 92,57,364,334,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002675.jpg 160,120,407,268,1 215,32,367,231,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002302.jpg 150,82,489,323,3 66,36,204,372,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003404.jpg 140,124,316,206,3
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003181.jpg 286,142,328,271,4 356,157,415,303,4 2,32,270,333,14 1,3,65,79,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007900.jpg 187,116,325,286,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006088.jpg 1,230,174,375,8 406,183,500,337,8 91,199,342,332,17 341,162,414,212,17
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008068.jpg 50,36,435,345,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003239.jpg 316,160,448,288,8 83,241,135,328,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002760.jpg 256,28,500,277,7 1,7,273,294,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001112.jpg 323,87,406,214,18 61,168,125,202,6 181,279,261,335,15 259,299,350,335,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009558.jpg 99,30,374,218,6 394,9,412,49,14 373,1,403,52,14 352,1,374,39,14 275,1,315,39,14 231,3,277,32,14 100,25,127,59,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000232.jpg 47,92,376,334,9 230,32,252,93,14 404,71,500,119,3
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002000.jpg 371,215,411,267,3 33,195,131,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008108.jpg 27,235,62,300,13 97,229,130,303,13 64,216,87,294,14 80,209,109,300,14 199,202,234,319,14 376,207,402,291,14 153,240,182,303,13 240,223,356,324,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001062.jpg 126,33,337,289,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003593.jpg 316,135,463,265,16 62,119,314,303,16
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004120.jpg 59,41,500,301,5
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006765.jpg 264,338,360,470,15 1,203,50,312,15 96,146,183,201,15 240,166,274,195,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007696.jpg 1,116,349,223,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004192.jpg 138,220,233,300,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008359.jpg 353,43,477,184,6 21,36,364,343,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005738.jpg 58,92,378,270,6 1,103,107,231,6 227,85,247,102,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001756.jpg 132,303,175,447,4 256,104,363,415,14 5,33,262,453,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009605.jpg 89,18,458,369,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007187.jpg 14,149,422,308,17 1,121,238,224,14 277,120,473,223,14 153,101,348,334,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006188.jpg 50,102,390,335,1 279,123,342,186,15 174,182,241,237,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007723.jpg 55,93,430,287,0 455,104,500,320,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006747.jpg 139,3,341,334,13
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005806.jpg 216,154,349,286,6 125,75,189,154,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001151.jpg 93,109,316,325,11 263,3,428,329,14 221,1,329,196,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007123.jpg 86,121,281,277,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008826.jpg 346,188,500,336,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006643.jpg 180,39,452,375,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000042.jpg 263,32,500,295,18 1,36,235,299,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006470.jpg 192,133,287,324,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005349.jpg 400,96,500,223,19 1,135,104,273,19 101,234,432,375,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000395.jpg 104,54,429,264,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000599.jpg 30,209,243,374,8 147,159,399,298,17
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009945.jpg 92,199,132,229,16
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009324.jpg 233,18,447,330,2 1,50,302,331,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009174.jpg 6,54,500,321,5 266,252,490,375,6 40,252,206,328,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003415.jpg 197,2,500,217,7 128,153,334,373,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005625.jpg 65,50,500,375,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000469.jpg 16,28,454,315,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008558.jpg 103,36,295,198,11 284,108,475,328,11 102,166,284,349,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006761.jpg 131,193,348,322,9
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006367.jpg 115,2,400,333,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002496.jpg 61,70,500,348,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003987.jpg 2,379,280,499,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008160.jpg 22,69,377,366,6 203,1,456,139,6 75,29,121,144,14 46,34,86,139,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002791.jpg 114,115,487,309,2 228,18,374,317,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003056.jpg 274,255,368,333,10 259,244,286,330,8 278,248,308,330,8 358,285,390,338,4 46,232,97,266,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001119.jpg 250,178,343,215,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006968.jpg 225,160,500,301,17 158,215,267,349,11 88,53,201,297,14 262,121,377,273,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001402.jpg 213,66,443,301,17 1,118,369,375,17 433,51,494,124,1
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003489.jpg 280,32,456,257,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003566.jpg 223,291,243,338,4 113,133,227,340,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009255.jpg 12,5,248,197,12
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006628.jpg 64,128,113,155,8 157,124,190,171,8 172,137,209,182,8 213,144,252,195,8 249,161,291,216,8 133,207,271,375,8 17,179,152,373,8 48,150,216,375,10 386,104,429,140,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002870.jpg 62,110,184,325,13 68,15,179,280,14 231,138,271,241,14 334,185,426,259,14 457,135,491,249,14 309,157,329,235,14 384,158,411,231,14 16,143,56,233,14 411,179,449,252,13
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003567.jpg 114,47,149,168,14 184,48,344,276,14 178,109,338,292,13 1,103,35,141,13
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004361.jpg 298,119,453,278,13 186,109,332,289,13 38,120,169,279,13 69,38,102,128,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001588.jpg 1,135,59,234,19 100,130,251,217,17 302,133,500,286,17
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004005.jpg 118,185,360,217,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009479.jpg 2,278,357,500,17 145,261,293,327,7 3,291,104,500,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003998.jpg 12,60,500,307,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007526.jpg 167,123,260,312,14 86,160,300,412,12
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001052.jpg 65,101,431,281,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001234.jpg 70,14,182,443,14 33,167,190,500,14 1,425,62,475,11 3,280,71,384,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009596.jpg 1,143,112,236,13 164,114,291,219,13 323,113,382,196,13 312,102,342,166,13 201,70,262,191,14 233,65,281,116,14 323,69,386,181,14 374,72,419,163,14 305,48,323,86,14 14,41,54,76,6 118,47,137,64,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007068.jpg 3,157,357,342,6 2,110,357,186,6 34,74,357,133,6 63,46,338,118,6 94,24,321,75,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002523.jpg 35,25,485,346,1
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006375.jpg 371,142,437,182,6 194,155,291,218,6 28,160,196,306,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003497.jpg 25,101,357,254,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005273.jpg 108,55,285,156,6 235,84,418,153,6 336,12,415,160,14 397,50,439,154,14 1,112,305,357,1
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009015.jpg 232,128,431,242,5 1,211,54,333,6 114,196,153,220,6 213,202,233,228,6 72,199,113,221,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007022.jpg 146,101,266,179,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002086.jpg 281,78,405,179,19 31,134,139,237,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005960.jpg 94,284,166,370,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005905.jpg 194,2,359,283,14 2,2,246,283,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006599.jpg 100,1,248,209,8 37,1,158,262,14 224,1,500,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007735.jpg 191,68,284,295,14 4,266,366,333,10 240,209,384,316,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001557.jpg 36,3,379,107,0 399,79,421,125,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002988.jpg 105,18,407,335,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000919.jpg 39,82,352,330,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005209.jpg 82,75,416,299,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005606.jpg 10,145,96,301,4 10,41,291,373,14 100,67,495,373,14 20,84,75,144,14 65,109,117,172,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003690.jpg 1,57,453,375,17 31,77,500,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008180.jpg 3,334,333,500,1 38,6,333,500,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001152.jpg 52,2,448,336,5 200,113,272,336,14 75,146,146,336,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005701.jpg 273,274,317,312,8 161,270,219,344,8 86,277,146,355,8 4,277,109,406,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003066.jpg 139,170,255,270,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000898.jpg 1,115,499,361,17 297,195,351,233,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006462.jpg 67,2,375,500,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003588.jpg 200,63,324,319,8 66,82,185,330,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000537.jpg 111,12,396,400,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000583.jpg 13,87,490,248,13
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003752.jpg 404,323,500,351,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005639.jpg 197,174,322,273,1 250,130,308,209,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005930.jpg 48,81,213,197,1 12,16,48,176,14 412,97,443,136,14 64,7,170,180,14 411,119,454,151,1
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005264.jpg 207,93,457,500,2 19,47,293,500,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009579.jpg 20,2,375,500,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001980.jpg 218,52,500,375,14 164,18,500,375,14 17,181,135,267,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006635.jpg 14,61,342,471,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003546.jpg 132,82,257,228,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006221.jpg 1,75,344,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003392.jpg 135,3,497,375,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006233.jpg 386,303,423,347,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005414.jpg 59,105,217,333,13 265,121,443,333,13 196,40,290,330,14 283,55,433,330,14 432,95,487,150,13
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004066.jpg 133,85,450,265,17
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005714.jpg 122,223,377,295,3
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005813.jpg 147,164,288,354,15 105,240,207,351,15 94,195,140,352,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001175.jpg 119,153,367,329,14 360,114,449,187,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007327.jpg 394,259,454,340,8 298,257,361,347,8 145,235,187,291,8 218,240,268,304,8 263,229,294,290,8 385,213,426,239,1 246,212,310,252,1 160,213,183,253,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002215.jpg 353,44,497,227,7 251,43,370,219,7 134,8,267,206,7 28,11,125,152,7 13,55,174,258,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005380.jpg 25,28,340,500,8 160,182,330,484,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002670.jpg 22,143,374,429,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004058.jpg 1,24,213,403,14 258,202,329,384,14 219,237,290,373,14 241,180,297,257,14 246,188,265,213,14 166,188,241,362,14 86,157,184,354,14 133,165,196,344,14 1,93,33,196,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008083.jpg 82,85,204,294,14 152,66,362,300,14 95,140,400,300,17
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003575.jpg 20,151,266,375,14 195,140,320,264,14 355,117,487,282,14 22,146,344,364,17
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001725.jpg 267,39,375,224,19 315,217,375,411,19 255,401,375,500,19 1,113,285,390,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006229.jpg 76,117,157,306,14 306,115,374,248,14 347,115,382,212,14 373,75,462,375,14 168,131,355,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006819.jpg 92,185,309,333,10 97,167,146,290,8 129,178,206,328,8 217,209,286,337,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009836.jpg 192,124,302,221,3
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005433.jpg 139,156,332,280,11 1,1,500,375,17
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003679.jpg 38,53,432,302,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005992.jpg 1,48,488,371,17 43,77,449,293,14 60,147,286,245,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007565.jpg 143,34,395,263,7 59,124,362,355,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003002.jpg 1,89,119,389,15 121,104,317,418,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002194.jpg 294,188,391,300,8 81,107,155,278,14 127,117,177,283,14 295,126,464,305,14 377,144,464,268,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008294.jpg 38,46,207,179,6 145,122,324,237,13 202,78,293,237,14 217,71,319,108,6 319,63,451,120,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006782.jpg 1,104,222,500,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002558.jpg 95,125,215,290,1 330,170,438,344,1 86,39,222,268,14 330,74,448,319,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003216.jpg 135,74,380,285,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008890.jpg 110,154,358,249,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009718.jpg 2,194,297,252,18 362,315,408,344,6 162,337,240,372,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007280.jpg 203,103,345,177,0 142,121,281,195,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004323.jpg 193,173,320,312,12 33,171,162,500,12 261,116,320,242,14 55,105,175,327,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004837.jpg 273,138,500,320,17 67,166,253,357,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001486.jpg 110,61,461,269,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005090.jpg 28,119,466,265,5 461,164,498,256,14 409,174,445,259,14 167,157,209,293,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001182.jpg 125,149,403,294,9 100,124,218,183,9
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002976.jpg 3,199,240,500,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000935.jpg 67,207,111,243,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001870.jpg 4,16,400,400,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006286.jpg 80,88,405,375,14 436,147,475,209,14 381,145,428,191,14 104,185,209,279,10 408,241,500,375,8 49,178,135,279,8 150,184,233,290,8 19,167,65,231,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001200.jpg 16,8,475,321,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002481.jpg 15,19,316,426,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009816.jpg 87,227,157,269,16 151,219,193,241,16 235,214,283,259,16 319,205,367,238,16 396,186,454,220,16 426,179,474,211,16 308,191,356,220,16
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003077.jpg 323,151,441,252,8 250,155,344,254,8 73,139,156,289,14 153,142,237,285,14 244,127,321,266,14 352,134,435,262,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002272.jpg 1,227,341,375,1 1,3,341,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005183.jpg 25,307,235,448,7 213,300,361,417,7 1,10,375,500,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008096.jpg 130,163,249,241,1 165,140,233,220,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006482.jpg 30,31,406,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001858.jpg 17,99,475,216,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000328.jpg 58,147,257,265,12 1,109,50,229,12 305,98,440,236,12 116,62,174,226,14 170,83,209,148,14 362,70,414,204,14 281,94,327,180,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006129.jpg 9,114,487,215,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000738.jpg 1,124,496,235,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001488.jpg 254,152,385,204,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003524.jpg 34,39,418,480,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002546.jpg 196,17,440,375,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004836.jpg 1,147,474,446,13
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002803.jpg 225,154,375,312,8 107,145,263,294,8 376,109,443,183,8 312,107,390,151,8 196,109,288,159,8 146,114,208,170,8 302,85,333,125,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003857.jpg 3,6,375,394,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002182.jpg 15,121,438,252,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009460.jpg 3,49,377,373,14 352,273,500,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007749.jpg 128,23,500,375,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007033.jpg 1,4,500,375,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001414.jpg 15,87,43,196,14 324,84,362,130,14 475,93,500,234,14 40,64,458,313,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003890.jpg 7,270,282,500,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003594.jpg 149,131,357,448,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000496.jpg 419,210,482,319,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000889.jpg 37,287,186,486,15 181,362,302,458,15 188,2,327,394,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005755.jpg 80,27,401,237,17 6,181,500,400,17
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004367.jpg 109,51,500,375,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005843.jpg 124,199,294,312,9
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002772.jpg 32,146,436,273,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008927.jpg 203,238,266,317,9
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000337.jpg 76,153,160,276,1 219,176,429,374,1 29,29,68,111,14 119,4,162,53,14 113,28,167,131,14 242,17,288,103,14 68,92,165,255,14 235,30,403,362,14 176,75,231,132,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005910.jpg 218,78,351,179,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003509.jpg 184,28,375,499,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005496.jpg 164,107,454,299,3 415,202,437,233,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001797.jpg 1,1,499,372,17 5,4,265,375,14 176,35,346,255,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004997.jpg 123,59,456,244,18 40,124,112,208,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005290.jpg 227,121,287,181,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000796.jpg 165,118,418,316,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008775.jpg 178,153,300,270,14 252,61,426,260,14 8,1,64,102,14 58,1,97,95,14 91,1,152,96,14 161,1,205,103,14 220,1,278,107,14 358,1,402,107,14 399,1,450,109,14 445,1,493,107,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003236.jpg 309,267,376,340,14 2,145,49,192,14 243,1,500,282,17
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006450.jpg 99,125,316,319,14 305,47,413,322,14 1,157,111,321,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004905.jpg 2,8,197,280,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004509.jpg 51,218,333,470,1 71,58,316,402,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008718.jpg 373,130,449,359,14 328,163,349,209,14 1,4,348,375,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004902.jpg 1,141,192,374,12 79,124,265,364,12 217,118,389,375,14 195,68,500,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003354.jpg 93,75,256,223,9
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005470.jpg 3,3,375,500,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000515.jpg 64,164,151,210,6 147,167,186,200,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003957.jpg 15,73,413,253,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000761.jpg 300,249,412,375,8 19,255,165,375,19 150,141,437,322,17
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005312.jpg 111,53,364,366,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009375.jpg 128,146,145,188,4 128,92,247,380,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008307.jpg 161,54,264,196,14 78,85,412,313,12
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009424.jpg 50,103,422,329,6 275,95,368,335,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007213.jpg 268,157,341,242,8 25,37,236,375,14 359,75,500,251,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009950.jpg 1,2,500,332,18 231,111,299,198,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008397.jpg 199,354,294,375,6 19,322,36,358,14 42,324,54,358,14 58,290,294,375,5 6,303,68,329,5
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003779.jpg 56,105,400,383,12 182,69,322,260,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004551.jpg 1,1,493,375,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004014.jpg 1,75,374,500,8 3,48,303,500,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008103.jpg 3,136,500,368,17 207,72,326,374,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005791.jpg 1,44,74,156,6 35,36,479,328,13
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006163.jpg 79,89,305,500,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004706.jpg 117,20,362,340,14 46,164,428,357,1
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007991.jpg 3,99,500,375,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005388.jpg 82,67,121,196,4 147,106,183,199,4
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001008.jpg 220,154,300,280,13
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005853.jpg 180,104,326,192,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000645.jpg 135,46,500,374,2 124,146,365,375,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008769.jpg 221,24,500,373,14 9,53,286,373,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009813.jpg 185,132,500,284,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006448.jpg 344,69,392,250,4 395,109,427,235,4
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006562.jpg 281,116,399,234,9 181,108,281,235,9 87,87,171,236,9 1,15,74,237,9 60,160,100,222,9
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007979.jpg 275,89,411,170,9 196,63,241,177,14 445,41,479,132,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004510.jpg 123,50,244,153,19 101,199,255,375,8 422,84,500,359,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001810.jpg 261,170,364,268,19 1,51,236,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000612.jpg 158,144,375,500,14 1,110,195,500,14 1,1,374,213,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001830.jpg 38,47,265,491,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007298.jpg 3,1,278,330,5 291,135,333,275,14 217,132,268,266,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007687.jpg 280,25,500,345,11 1,27,452,346,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004244.jpg 342,75,500,135,6 45,81,475,197,6 97,180,500,373,6 252,162,365,266,14 19,102,192,329,14 1,111,155,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000396.jpg 86,170,353,259,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008225.jpg 242,136,281,231,14 112,201,189,330,14 56,128,190,221,6 128,189,249,247,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005653.jpg 82,73,377,261,9 207,97,284,280,14 362,103,422,262,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009236.jpg 131,96,346,290,12 195,57,258,212,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003272.jpg 226,119,434,311,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008175.jpg 197,4,424,374,14 12,37,242,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008655.jpg 234,48,280,128,15 258,328,357,500,11 266,205,299,283,11 213,128,269,178,19 101,177,253,307,10 198,175,270,302,8 138,187,209,327,8 85,171,157,296,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006588.jpg 104,28,451,311,18 5,193,86,234,6 86,200,131,227,6 473,187,488,211,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003783.jpg 160,322,206,421,4 71,284,133,392,4 91,256,141,357,4 138,276,178,383,4 177,254,222,373,4 184,172,239,312,4 269,157,314,259,4 232,141,271,270,4 206,180,239,277,4 128,232,174,309,4 100,203,137,281,4 109,159,149,237,4 126,147,155,205,4 148,125,178,190,4 143,205,187,305,4 213,143,238,216,4 219,107,243,174,4 227,86,255,147,4 254,121,283,189,4 294,142,321,234,4
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007939.jpg 101,256,333,473,9
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002142.jpg 178,86,316,333,14 292,71,409,333,14 5,130,62,218,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006026.jpg 214,93,479,207,7 2,114,293,375,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002125.jpg 58,154,467,310,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000609.jpg 16,134,460,275,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002320.jpg 69,33,282,202,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005052.jpg 1,11,161,496,14 147,141,325,500,14 44,243,82,346,4
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005023.jpg 207,266,259,339,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002112.jpg 136,2,375,500,4
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008323.jpg 1,262,228,375,17
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005729.jpg 25,108,403,332,13 135,34,309,304,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009024.jpg 197,140,278,310,14 163,172,288,360,12
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000619.jpg 143,12,459,322,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001952.jpg 26,26,475,372,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009469.jpg 36,112,482,322,6 1,111,130,188,6 414,71,463,156,14 205,80,236,117,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005305.jpg 74,358,266,462,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008492.jpg 153,69,496,243,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006181.jpg 26,66,486,319,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001795.jpg 178,141,301,281,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000832.jpg 89,38,337,500,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008653.jpg 137,27,312,454,12
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004609.jpg 174,179,375,412,11 2,100,320,500,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008557.jpg 151,135,213,193,19 23,127,49,173,15 1,150,19,185,15 36,174,61,208,15 19,180,39,214,15 5,182,22,218,15 33,209,60,243,15 186,189,446,334,17
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007664.jpg 165,227,271,375,8 22,283,176,375,8 13,222,258,375,10 148,75,171,124,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006584.jpg 122,87,174,164,14 191,98,210,124,14 212,79,275,283,14 242,86,286,233,14 86,101,182,214,14 143,99,241,327,14 2,39,217,331,14 233,39,373,331,14 384,57,484,323,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000165.jpg 89,54,500,386,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001729.jpg 119,4,217,96,15 284,107,411,280,14 126,83,257,285,14 9,167,160,333,14 371,63,500,332,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001383.jpg 100,138,431,312,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001061.jpg 323,33,449,128,2 320,116,489,375,14 1,1,321,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000516.jpg 213,91,500,245,7 1,9,500,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005065.jpg 1,57,479,298,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008931.jpg 218,257,281,374,4 43,211,82,353,4 111,117,274,374,14 249,122,390,374,14 70,140,171,318,14 1,136,93,299,14 307,2,460,374,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008269.jpg 21,30,500,335,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009288.jpg 59,73,131,195,14 72,64,127,251,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006666.jpg 8,97,375,500,14 8,154,334,434,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000752.jpg 225,118,500,319,14 1,119,125,332,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000613.jpg 171,125,500,333,10 392,223,500,333,8 17,218,144,333,8 31,110,184,333,14 87,110,181,257,14 137,103,194,224,14 174,91,238,190,14 206,102,245,154,14 131,39,173,127,14 256,84,311,129,14 335,87,369,104,14 377,85,408,108,14 455,97,489,137,14 301,127,465,332,14 335,103,445,197,14 328,95,382,179,14 329,100,357,153,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005761.jpg 21,54,381,361,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006673.jpg 394,42,445,234,3 353,81,390,207,3 309,52,372,246,3 294,110,324,196,3 242,70,275,212,3 230,117,245,189,3 214,112,239,201,3 187,114,210,195,3 171,107,206,223,3 137,105,171,213,3
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004630.jpg 110,96,176,289,14 159,82,245,341,14 212,88,353,374,14 331,77,435,373,14 203,15,328,375,14 3,113,273,375,14 460,110,486,195,14 419,107,456,203,14 3,11,434,135,5
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003047.jpg 383,80,434,189,1 277,87,366,173,1 190,80,262,161,1
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008262.jpg 29,77,471,322,5
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000828.jpg 2,178,32,288,14 26,174,65,291,14 267,93,361,289,14 19,146,191,500,14 157,89,375,500,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000289.jpg 49,99,337,231,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006718.jpg 91,193,122,258,1 76,147,101,255,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003621.jpg 199,153,328,271,1 249,72,334,224,14 441,62,492,120,5
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004242.jpg 3,13,474,374,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008342.jpg 135,97,310,334,9 358,163,500,262,16 312,229,500,400,16 273,208,342,346,16 11,207,242,400,16
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008933.jpg 80,230,248,401,7 234,346,284,407,15 234,383,297,447,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008967.jpg 229,15,379,331,4 359,15,480,322,4 162,54,260,333,4 137,71,233,332,4
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002104.jpg 224,16,380,330,14 38,82,478,302,13
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001092.jpg 131,63,456,332,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009166.jpg 196,18,294,280,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004675.jpg 3,46,374,150,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006339.jpg 67,65,148,137,19 284,100,383,335,17 284,166,371,238,14 265,104,322,184,14 81,128,183,199,14 86,254,188,301,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000344.jpg 89,2,307,441,4
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005398.jpg 68,117,247,284,13 108,100,186,253,14 139,96,231,267,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002238.jpg 240,129,305,246,12 235,91,300,231,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000321.jpg 44,167,249,458,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007779.jpg 111,248,186,298,6 186,221,305,298,6 305,247,387,295,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004995.jpg 200,166,309,302,12 225,140,265,250,14 106,214,235,390,12 158,168,227,330,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000147.jpg 33,105,65,146,8 77,114,114,149,8 146,125,175,150,8 373,121,402,153,8 435,112,465,149,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001593.jpg 125,128,276,433,14 195,336,382,500,14 264,259,339,355,14 315,242,412,424,14 17,238,128,410,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006638.jpg 25,110,445,325,17
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002815.jpg 1,33,333,500,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008095.jpg 373,141,500,175,18 5,86,390,202,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009576.jpg 191,129,351,217,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003031.jpg 6,89,493,315,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003855.jpg 243,139,389,229,13 264,105,331,209,14 32,111,97,210,14 156,119,221,213,14 130,164,235,225,1 16,154,104,218,1
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005906.jpg 114,114,188,221,5 232,170,257,232,14 358,131,400,257,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003809.jpg 107,128,485,274,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004291.jpg 3,1,374,500,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002755.jpg 122,89,359,308,14 291,82,494,357,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006805.jpg 36,13,447,397,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005450.jpg 7,123,342,500,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008817.jpg 274,13,412,374,14 5,36,465,375,13
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006067.jpg 41,184,291,257,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005195.jpg 65,235,93,305,4 369,112,493,303,14 227,99,332,209,14 1,105,130,252,14 12,199,416,333,10
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005679.jpg 440,47,500,119,6 42,27,443,330,6 2,74,115,312,6 33,42,140,124,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006418.jpg 1,1,479,333,1
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000900.jpg 260,135,342,269,16 150,172,215,269,16 101,170,188,252,16
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004747.jpg 1,46,472,351,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001230.jpg 68,154,399,253,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002470.jpg 23,86,417,462,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006887.jpg 187,107,294,190,14 60,112,178,342,14 131,161,332,358,14 303,141,426,339,14 14,166,152,351,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005794.jpg 1,186,145,357,17 83,167,281,330,8 263,152,344,208,10 321,146,358,215,8 278,149,323,222,8 25,46,125,128,15 412,55,500,148,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003157.jpg 137,57,303,185,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006458.jpg 196,62,493,271,6 26,110,235,265,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004110.jpg 203,113,298,375,14 203,258,227,318,4
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004493.jpg 355,61,404,194,4 1,95,500,375,10
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007152.jpg 28,44,91,113,0 47,151,111,212,0 65,239,127,299,0 189,143,255,205,0 164,29,228,96,0 397,15,462,83,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000187.jpg 1,95,240,336,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004390.jpg 10,89,493,230,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009246.jpg 97,36,354,206,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005861.jpg 246,147,382,222,6 30,160,84,183,6 122,160,183,185,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009961.jpg 69,4,392,345,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001073.jpg 55,178,149,248,9 135,176,174,241,9 227,153,282,236,9 276,159,350,255,9 327,152,425,240,9 421,161,500,227,9
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003753.jpg 45,55,500,321,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005378.jpg 3,186,87,289,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009692.jpg 167,172,224,263,2 203,157,298,249,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000545.jpg 148,146,269,500,14 287,173,330,250,14 315,172,336,249,14 144,174,171,244,14 123,174,136,200,14 50,174,63,206,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002139.jpg 194,1,400,338,4
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000482.jpg 362,129,500,254,18 1,54,313,330,18 33,103,58,137,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005828.jpg 86,62,443,210,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006348.jpg 12,75,80,205,19 216,107,500,374,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009175.jpg 132,57,331,159,7 248,177,435,340,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004850.jpg 245,92,405,195,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002039.jpg 246,87,284,175,3
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008338.jpg 26,5,486,140,5
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002785.jpg 222,1,475,178,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000312.jpg 3,2,500,334,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008884.jpg 149,179,208,375,14 203,201,252,368,14 2,3,369,259,3
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001378.jpg 182,90,350,404,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003660.jpg 230,185,375,391,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002423.jpg 233,146,410,237,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002848.jpg 201,15,278,82,13
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002867.jpg 167,1,374,456,5 1,13,129,389,5 104,179,224,451,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007070.jpg 132,4,464,332,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004866.jpg 111,97,237,192,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000379.jpg 46,16,443,341,1
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004587.jpg 209,298,322,356,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006350.jpg 20,68,454,228,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008048.jpg 48,75,100,178,14 108,59,145,191,14 113,46,189,199,14 175,37,243,197,14 240,24,316,197,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005064.jpg 246,163,352,292,1 251,108,332,259,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003406.jpg 341,37,458,361,14 442,75,500,292,14 2,4,500,374,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004117.jpg 89,56,427,328,12 174,52,277,209,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003969.jpg 410,118,440,180,11 76,136,132,185,2 207,152,241,181,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009667.jpg 144,186,385,348,1
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003218.jpg 235,161,286,254,1 439,162,485,261,1 281,159,324,238,1 324,144,349,220,1 172,176,224,277,1 83,127,117,178,1 430,93,482,241,14 232,95,280,224,14 279,100,321,212,14 83,91,115,168,14 304,88,338,152,14 347,85,378,198,14 376,81,396,191,14 455,74,483,138,14 330,82,359,187,14 36,88,80,245,14 132,82,154,157,14 11,80,47,227,14 242,81,251,100,14 227,73,238,91,14 213,77,233,116,14 109,84,135,157,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009947.jpg 115,92,250,321,3
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001632.jpg 11,103,450,371,12
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001981.jpg 36,1,329,273,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001106.jpg 102,160,240,327,8 295,158,389,319,8 339,174,465,363,8 363,149,445,258,8 337,179,500,319,10
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002056.jpg 93,139,303,402,5 331,260,375,381,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003085.jpg 174,81,327,266,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006355.jpg 238,214,313,336,11 202,175,245,318,11 189,27,283,217,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005599.jpg 179,146,308,435,1 46,171,181,408,1 150,27,318,369,14 26,37,191,376,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005963.jpg 252,155,385,322,8 327,178,500,375,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007712.jpg 52,128,262,411,13 72,42,246,396,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005374.jpg 290,147,361,325,14 211,136,255,262,14 215,153,258,262,14 187,2,500,347,5
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004592.jpg 73,6,497,327,3
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005700.jpg 158,205,224,335,12 153,146,229,266,14 258,147,281,184,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006858.jpg 122,128,205,295,12 196,43,299,300,14 1,75,137,186,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003116.jpg 100,67,487,400,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004035.jpg 74,149,206,262,7 231,15,394,297,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004303.jpg 1,3,305,281,5 410,129,482,154,6 295,130,410,169,6 389,127,435,145,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000843.jpg 170,127,312,219,19 351,54,426,304,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002691.jpg 1,232,192,365,11 64,27,478,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000777.jpg 147,109,327,277,11 224,1,361,209,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004135.jpg 35,121,454,245,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002257.jpg 222,220,299,347,1
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007212.jpg 143,9,445,331,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003772.jpg 110,64,408,294,12
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007038.jpg 32,59,332,374,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006247.jpg 2,63,454,358,16
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008320.jpg 1,8,245,198,12
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006369.jpg 18,110,424,301,6 435,102,446,131,14 450,108,500,146,6 479,96,500,156,14 334,95,380,121,6 367,100,401,137,14 400,125,425,167,14 179,13,235,64,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008805.jpg 60,143,348,450,12 159,117,279,284,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008442.jpg 231,70,387,221,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002913.jpg 176,108,473,166,18 196,122,217,183,14 13,123,39,182,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006789.jpg 83,33,166,162,14 47,169,90,269,14 56,43,214,310,12
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004389.jpg 61,239,308,496,12 135,73,263,325,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005018.jpg 191,85,412,308,11 23,5,250,198,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005788.jpg 148,32,358,262,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002896.jpg 124,71,253,500,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008750.jpg 24,81,479,304,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004163.jpg 248,197,355,316,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008132.jpg 146,163,196,200,0 251,270,356,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002171.jpg 41,174,191,329,14 35,247,170,401,1
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004968.jpg 45,2,329,470,12 169,193,329,431,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000949.jpg 155,196,303,463,1 3,176,151,426,1 145,36,328,412,14 1,48,159,393,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002218.jpg 237,51,484,178,11 242,130,444,317,11 68,84,246,235,11 3,3,493,327,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003207.jpg 124,6,162,102,4 94,36,132,91,4 71,57,108,166,4 100,58,150,188,4 13,71,61,184,4 152,115,203,237,4 216,102,261,222,4 259,134,307,260,4 308,126,356,251,4 350,139,408,264,4
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003008.jpg 211,127,263,146,3
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002324.jpg 1,1,194,374,14 171,1,293,182,14 166,127,373,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001730.jpg 214,110,376,323,12 269,36,341,203,14 162,84,239,368,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004141.jpg 10,8,312,488,9 232,95,414,393,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006440.jpg 307,137,500,305,13 270,123,313,266,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001078.jpg 2,101,245,375,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000730.jpg 5,52,495,234,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000917.jpg 2,2,265,355,15 265,163,316,214,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009048.jpg 119,308,234,404,7 180,90,313,214,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001001.jpg 62,64,325,375,7 315,102,427,356,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000104.jpg 403,110,500,265,19 291,75,442,333,14 2,7,283,333,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005483.jpg 63,72,376,230,6 1,150,89,257,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009738.jpg 187,255,311,474,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009123.jpg 23,172,352,375,10 270,236,443,375,8 408,215,490,373,8 216,96,299,192,15 304,104,493,307,14 326,102,426,241,14 266,100,333,177,14 125,100,203,197,14 54,73,110,198,14 1,89,92,301,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000170.jpg 87,100,109,165,4 41,114,73,181,4 324,148,352,206,4 3,91,43,206,14 4,28,461,372,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008773.jpg 114,129,499,306,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009676.jpg 459,146,500,246,6 259,65,351,128,14 121,63,183,114,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005951.jpg 185,62,498,301,13 329,36,468,272,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009126.jpg 19,40,490,268,5
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009926.jpg 119,84,238,285,14 298,6,490,359,14 77,157,280,323,1 299,146,443,375,1
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007600.jpg 62,44,244,302,15 224,53,443,305,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004186.jpg 9,95,402,375,5 2,25,266,248,5 281,39,364,84,6 351,11,412,45,6 366,29,442,74,6 296,2,351,25,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009378.jpg 8,19,313,394,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002561.jpg 185,58,292,169,19 44,291,300,375,8 322,71,500,375,14 86,80,299,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008296.jpg 52,103,500,324,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008929.jpg 1,57,441,240,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009597.jpg 43,102,460,282,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001945.jpg 69,108,238,331,14 93,161,221,477,12
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002051.jpg 1,2,333,500,14 2,15,195,500,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004439.jpg 326,250,438,307,6 197,256,301,298,6 131,258,179,285,6 435,255,500,283,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000306.jpg 114,36,182,86,9 237,46,302,87,9 303,42,380,87,9
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006111.jpg 111,89,472,301,9
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006151.jpg 106,173,321,377,12 53,170,140,363,14 215,171,262,340,14 276,174,334,332,14 1,192,207,337,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000685.jpg 16,2,498,374,13
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004519.jpg 92,110,408,241,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004648.jpg 84,184,95,218,14 440,190,461,220,14 468,188,486,219,14 146,166,425,216,5
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005061.jpg 341,112,487,272,14 188,106,329,266,14 1,82,235,317,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005072.jpg 4,78,456,299,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001406.jpg 109,127,404,373,11 1,36,417,303,14 1,1,500,373,17
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008485.jpg 22,1,262,373,7 5,3,499,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003118.jpg 207,21,286,108,2 361,153,461,220,2 298,174,373,248,2 125,73,391,333,14 362,206,472,333,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008556.jpg 284,100,500,333,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005530.jpg 4,164,164,303,5 99,169,281,303,5 214,173,355,283,5 286,175,433,285,5
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009946.jpg 181,177,198,221,14 199,180,238,257,14 193,142,499,337,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009546.jpg 1,215,370,492,17 158,196,363,450,14 32,173,85,218,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001387.jpg 38,43,375,466,7 213,138,375,465,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008186.jpg 2,4,484,442,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009331.jpg 1,1,58,193,12 57,22,125,256,14 100,168,217,293,11 260,195,360,266,11 331,196,412,281,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000492.jpg 329,253,450,375,8 338,227,416,338,8 12,287,228,375,8 26,229,348,375,10
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004600.jpg 178,40,298,281,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004514.jpg 196,18,456,275,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004133.jpg 97,18,224,334,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006849.jpg 51,94,285,195,11 236,117,500,274,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004926.jpg 217,71,255,230,4 1,175,498,375,10
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006198.jpg 125,107,186,174,14 82,99,123,305,14 436,78,489,360,14 434,61,500,375,14 327,79,368,159,14 283,61,344,175,14 4,82,96,375,14 342,95,443,375,14 97,83,338,375,14 199,82,376,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005789.jpg 237,137,500,347,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009420.jpg 1,234,404,375,10 152,149,216,257,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004727.jpg 263,165,298,226,5 86,59,264,299,5 36,215,86,258,6 1,205,56,266,6 120,217,263,500,14 221,228,263,408,14 245,187,282,259,14 253,225,340,498,14 295,316,472,500,14 401,201,484,500,14 391,171,429,217,14 334,199,412,321,14 312,201,354,270,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002512.jpg 82,40,298,296,11 258,128,450,347,11 1,188,299,375,1
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001327.jpg 1,54,226,500,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007389.jpg 17,62,171,272,9 122,75,248,277,9 229,66,333,295,9 317,135,392,300,9 383,128,438,297,9 394,106,500,300,9
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003468.jpg 353,202,388,331,14 346,258,384,352,1
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000476.jpg 126,110,358,373,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000298.jpg 180,32,339,359,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001723.jpg 82,192,308,476,13 78,11,309,372,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001683.jpg 364,207,403,284,8 323,206,362,280,8 285,206,323,287,8 244,208,288,289,8 224,213,430,279,10 392,200,431,279,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000078.jpg 15,75,475,412,11 94,41,437,238,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007141.jpg 309,174,330,220,4 40,178,75,304,4 8,160,43,293,4
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009745.jpg 347,184,431,229,6 98,192,214,267,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002565.jpg 1,19,460,348,18 258,175,334,336,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002659.jpg 161,8,231,310,3
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002152.jpg 284,196,400,284,9
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001312.jpg 1,1,480,318,9
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005365.jpg 54,2,429,345,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000540.jpg 135,93,321,298,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002962.jpg 192,1,466,326,14 1,146,128,331,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003685.jpg 1,51,499,375,18 184,120,235,192,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006125.jpg 140,128,353,291,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005657.jpg 1,14,490,331,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009072.jpg 1,2,154,284,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007877.jpg 3,4,282,373,14 194,103,428,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007586.jpg 1,145,241,248,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005461.jpg 146,170,450,319,12 47,184,225,266,12 227,122,288,298,14 163,170,183,189,14 71,142,129,371,14 5,165,39,217,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008695.jpg 4,21,482,333,13 140,1,417,57,13
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000518.jpg 1,191,21,252,14 19,76,478,311,5
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000523.jpg 145,103,209,256,14 212,187,304,417,14 343,228,361,255,14 45,199,362,408,12
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003390.jpg 147,116,403,340,6 104,73,143,250,14 1,71,61,375,14 45,89,80,168,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004805.jpg 106,17,407,331,13 355,54,498,179,6 2,53,136,181,6 43,59,252,129,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005796.jpg 45,57,294,500,14 300,275,375,387,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007521.jpg 20,79,109,202,3
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007901.jpg 48,15,297,500,14 1,13,75,289,14 56,80,121,238,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001642.jpg 11,2,331,463,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009035.jpg 1,1,333,482,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003064.jpg 79,103,215,500,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002452.jpg 38,22,500,362,16
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002191.jpg 1,4,500,374,13
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003053.jpg 282,178,450,236,18 458,210,491,237,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004322.jpg 3,350,50,489,4 3,37,241,500,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007853.jpg 86,177,350,452,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002350.jpg 86,3,294,500,4
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006377.jpg 79,117,391,282,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006930.jpg 2,136,493,375,17
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004457.jpg 409,78,500,375,14 5,49,159,375,14 154,118,308,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008517.jpg 1,2,345,333,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004585.jpg 23,238,101,314,9 100,207,176,267,9 257,243,340,302,9 203,188,262,242,9
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006062.jpg 37,139,381,241,6 422,97,472,116,6 72,91,112,105,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008012.jpg 5,9,442,388,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001989.jpg 419,203,433,246,14 24,216,44,263,14 1,215,19,319,14 66,94,445,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004273.jpg 1,15,321,375,14 264,59,500,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000083.jpg 109,33,447,309,6 380,2,435,135,14 138,14,193,115,14 1,20,75,204,14 60,48,114,156,14 32,51,83,162,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004028.jpg 1,152,98,330,8 2,2,124,227,15 380,172,407,194,14 242,192,276,230,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005315.jpg 222,174,286,276,1 226,116,287,248,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000142.jpg 26,81,465,266,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009481.jpg 210,307,361,375,8 397,241,500,375,8 8,238,134,375,8 317,209,388,333,8 235,197,249,240,4 33,160,190,374,14 307,146,494,356,14 284,134,383,354,14 218,143,298,322,14 116,124,203,341,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009191.jpg 29,23,487,325,13
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004916.jpg 30,34,334,333,14 355,244,464,333,4 119,87,169,148,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007762.jpg 217,90,362,252,19 252,29,272,89,4 292,32,311,71,4 147,16,174,53,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007359.jpg 373,71,500,195,19 9,32,341,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000879.jpg 102,95,266,375,12 252,132,320,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007109.jpg 150,2,500,332,12 1,72,211,332,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001787.jpg 147,101,277,347,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000380.jpg 3,4,499,331,1
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009615.jpg 17,89,490,235,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004674.jpg 2,36,500,332,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000162.jpg 306,227,380,299,19 196,143,309,369,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009549.jpg 3,62,378,375,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003911.jpg 211,9,345,95,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008057.jpg 61,119,378,224,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006434.jpg 147,1,500,375,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005952.jpg 94,8,465,122,0 1,38,84,114,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008127.jpg 193,224,500,334,10 268,109,341,205,15 346,129,449,247,14 225,149,328,255,14 58,77,178,334,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006725.jpg 153,81,422,248,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004790.jpg 1,4,263,375,14 204,22,499,375,14 277,70,489,323,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008999.jpg 53,78,86,170,3 160,65,191,171,3 222,125,238,162,3 248,43,284,175,3 415,82,444,167,3
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006351.jpg 89,55,390,375,14 358,119,465,230,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003451.jpg 235,154,408,225,17 212,167,260,246,8 390,202,466,277,19 7,217,25,260,4
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002030.jpg 101,151,151,188,14 183,150,226,202,14 437,1,500,374,14 1,68,207,375,14 199,101,383,304,14 316,110,468,246,14 309,256,365,375,4 274,229,313,322,4 472,199,493,265,4
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006483.jpg 100,32,379,377,14 307,146,348,221,4 316,191,338,254,4 281,151,305,217,4
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001843.jpg 299,185,323,276,4 252,35,445,375,14 62,17,273,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005514.jpg 1,53,364,297,9
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002759.jpg 75,82,413,310,13 342,90,500,175,6 256,94,372,153,6 443,67,478,181,14 475,76,500,116,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003606.jpg 28,32,492,375,6 276,76,500,281,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008465.jpg 19,27,499,498,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003021.jpg 26,43,478,305,5
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005579.jpg 54,160,212,237,7 129,192,368,301,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005369.jpg 310,220,387,255,3
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009499.jpg 3,1,306,500,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007795.jpg 7,108,153,374,14 107,118,207,305,14 295,151,359,269,14 334,152,408,279,14 404,154,485,322,14 258,242,304,310,15 229,167,284,234,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008415.jpg 267,139,379,310,11 36,104,206,217,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008043.jpg 14,9,284,288,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006808.jpg 33,11,266,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005781.jpg 23,114,207,295,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002255.jpg 87,70,311,269,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009032.jpg 309,209,341,257,15 27,69,207,262,19 205,75,350,256,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007594.jpg 111,191,482,375,12 62,71,190,351,14 150,111,225,215,14 185,74,351,368,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000112.jpg 70,174,277,328,11 287,162,316,198,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005026.jpg 1,170,354,294,5 344,210,428,258,5
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009717.jpg 2,154,118,236,9 263,206,425,333,9 182,163,270,283,9 135,178,196,234,9 340,75,458,178,3 238,77,338,159,3 147,78,231,150,3 115,107,160,149,3 2,103,55,137,3 447,102,500,123,3 90,182,128,285,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005110.jpg 83,33,384,152,6 405,96,461,142,6 2,158,133,287,6 126,176,189,232,6 180,186,206,217,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006777.jpg 115,170,249,351,15 150,140,329,443,14 26,125,253,500,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001348.jpg 163,52,313,210,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000661.jpg 119,177,331,278,17 65,90,170,197,15 133,159,179,197,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008859.jpg 128,100,219,148,6 104,82,167,121,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001647.jpg 1,231,227,500,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006762.jpg 81,229,222,351,13 249,192,290,296,14 125,197,192,322,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007935.jpg 124,126,380,284,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004555.jpg 142,174,355,245,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005547.jpg 171,175,320,368,9 48,150,447,347,6 439,148,471,269,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007011.jpg 1,46,235,372,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005146.jpg 394,102,492,279,1 306,134,390,282,1 13,143,91,274,1 125,127,197,277,1 181,138,280,280,1 12,53,93,271,14 129,79,219,270,14 213,49,299,274,14 284,36,356,276,14 394,28,484,267,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001130.jpg 114,107,296,266,9
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001479.jpg 144,88,500,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004691.jpg 54,67,500,318,18 33,1,71,20,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006497.jpg 22,84,489,264,6 97,64,216,121,6 461,98,491,153,14 426,103,452,135,14 390,97,413,128,14 166,104,185,119,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000731.jpg 138,387,237,500,2 13,75,300,373,14 1,1,165,273,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006318.jpg 234,130,360,309,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005311.jpg 218,66,250,110,14 239,51,305,112,14 1,1,194,205,14 261,7,429,212,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002869.jpg 21,94,489,226,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009468.jpg 87,40,247,216,12 112,32,199,135,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003984.jpg 137,36,500,261,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008261.jpg 109,179,161,244,14 56,3,238,265,3
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002355.jpg 18,137,488,314,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008163.jpg 2,65,150,99,3 121,53,200,79,3 209,75,354,129,3 307,62,419,106,3 40,182,381,265,3 81,146,176,224,14 41,160,81,221,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002881.jpg 394,341,426,425,4 85,43,323,470,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008796.jpg 189,155,289,203,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003367.jpg 1,174,38,253,14 15,213,111,302,13 354,167,389,267,15 387,130,418,170,15 422,128,447,171,15 476,142,496,173,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007247.jpg 100,93,494,291,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002782.jpg 1,34,467,267,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001426.jpg 4,185,331,498,13 3,3,222,498,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005336.jpg 36,273,399,447,17 117,302,367,383,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009870.jpg 272,70,466,290,11 26,43,315,276,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009706.jpg 114,223,469,375,10
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007416.jpg 223,101,369,317,7 1,2,459,349,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009932.jpg 68,324,284,498,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008573.jpg 73,190,327,415,17 176,178,303,314,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004856.jpg 28,1,335,496,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002068.jpg 231,113,372,196,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007672.jpg 1,166,128,316,17
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003090.jpg 79,116,301,206,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006769.jpg 111,99,487,354,12 74,190,124,253,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003758.jpg 33,34,253,330,15 83,2,489,333,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000810.jpg 151,13,498,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007146.jpg 124,43,462,367,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007130.jpg 106,96,192,188,19 221,80,295,157,19 355,109,475,171,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008403.jpg 229,17,499,385,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002352.jpg 51,48,436,150,18 1,58,49,144,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008970.jpg 252,81,371,242,15 65,77,190,204,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007479.jpg 5,24,500,261,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000855.jpg 118,338,258,462,5 61,404,109,436,6 41,408,64,430,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001316.jpg 150,61,500,374,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003137.jpg 1,45,406,310,5
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002465.jpg 46,14,500,322,3
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006959.jpg 440,89,500,259,14 252,62,464,333,14 1,1,325,333,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004292.jpg 10,158,183,412,15 156,32,271,377,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009212.jpg 1,198,323,500,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003413.jpg 327,236,440,316,3 274,280,396,315,3 256,120,311,320,3 68,29,259,327,3 43,296,87,324,3
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005486.jpg 41,71,454,322,6 252,69,500,195,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007855.jpg 7,145,449,295,5 447,216,475,232,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007777.jpg 2,196,370,374,10 1,105,102,242,14 178,85,291,228,14 300,130,407,288,14 370,172,500,374,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006783.jpg 1,227,59,332,6 77,220,167,275,6 144,221,194,254,6 64,211,84,250,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002367.jpg 169,68,355,311,14 100,132,403,342,13
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002462.jpg 54,75,500,158,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008224.jpg 343,85,435,225,14 243,105,328,214,14 104,110,191,225,14 172,100,254,235,14 435,98,486,212,14 55,145,109,203,14 16,145,44,193,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007812.jpg 1,199,65,301,8 122,237,269,375,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007697.jpg 70,206,242,436,12 105,116,204,330,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005181.jpg 144,223,194,311,3
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009121.jpg 160,134,304,231,6 1,110,100,208,6 46,96,141,172,6 29,56,110,108,6 391,57,473,124,6 162,19,233,69,6 420,99,500,178,6 427,148,500,248,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009670.jpg 101,109,245,262,7 334,73,441,166,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001734.jpg 100,84,441,313,16
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000908.jpg 1,61,500,375,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002082.jpg 82,120,230,267,13 98,36,203,242,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005067.jpg 400,233,441,273,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002307.jpg 193,119,486,259,6 351,142,397,175,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002938.jpg 46,139,259,260,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009955.jpg 89,213,432,301,3 235,280,384,313,3
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002140.jpg 39,86,256,215,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003826.jpg 104,116,337,294,13 170,60,322,227,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009789.jpg 1,116,231,351,14 232,52,500,351,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005576.jpg 19,73,484,103,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005552.jpg 239,202,279,338,14 190,203,264,356,14 164,237,267,407,13
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000270.jpg 150,120,443,183,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007308.jpg 17,69,302,466,12 94,70,236,278,14 204,288,298,410,12
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004339.jpg 33,200,199,452,12 64,95,169,323,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000130.jpg 4,1,500,249,3
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009618.jpg 183,230,305,311,1 391,273,500,321,1 191,170,251,309,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001690.jpg 333,55,405,286,14 40,101,182,292,12
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005719.jpg 178,166,500,375,10 1,59,79,326,14 45,48,102,203,14 164,51,239,156,14 244,33,323,196,14 329,110,373,209,14 333,119,465,247,14 96,124,280,373,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004750.jpg 85,32,224,285,14 21,124,224,292,13 302,1,500,110,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007274.jpg 1,108,497,264,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008943.jpg 347,319,407,372,2 426,328,456,363,2 238,337,269,372,2 277,342,339,372,2 138,120,266,326,14 137,7,217,182,14 40,9,75,113,14 62,3,104,117,14 2,4,49,101,14 23,354,67,375,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000021.jpg 1,235,182,388,11 210,36,336,482,14 46,82,170,365,14 11,181,142,419,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009409.jpg 385,172,500,226,5 168,166,353,223,5 1,132,91,263,5 89,201,201,245,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004563.jpg 58,219,135,267,6 155,226,195,242,6 365,211,417,231,6 428,199,446,236,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000117.jpg 1,42,498,284,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004625.jpg 82,89,433,375,12
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006501.jpg 118,1,500,211,5
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005782.jpg 54,93,411,226,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005262.jpg 372,205,500,298,6 14,159,53,185,6 80,114,342,241,5
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007525.jpg 134,185,404,337,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005682.jpg 85,3,404,375,14 5,2,162,174,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004679.jpg 1,1,497,372,14 143,79,362,315,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009585.jpg 1,10,255,375,14 273,71,462,375,14 409,15,500,375,14 424,248,468,347,4 244,220,284,318,4
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002234.jpg 110,150,415,250,3 1,83,136,166,3
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008423.jpg 1,72,399,322,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004470.jpg 7,65,464,287,0 64,246,79,289,14 215,260,234,308,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008116.jpg 196,170,364,356,16 319,155,409,330,16 107,85,178,141,16 196,109,216,135,16 214,111,233,141,16
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005136.jpg 22,82,483,297,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001292.jpg 363,180,412,344,4 61,63,308,338,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007159.jpg 435,151,500,210,6 146,155,177,282,14 36,154,68,289,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009051.jpg 1,178,28,222,19 54,198,312,307,17 281,255,406,368,8 94,260,215,375,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005805.jpg 172,94,274,319,2 316,234,409,318,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009022.jpg 138,143,263,370,11 293,2,500,374,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003798.jpg 204,181,392,282,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009173.jpg 167,1,375,128,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005851.jpg 223,155,316,190,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009250.jpg 3,1,351,499,1
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000048.jpg 58,107,291,465,2 2,1,302,500,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009094.jpg 235,81,394,227,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005669.jpg 254,151,341,202,6 409,135,500,199,5 160,87,194,220,14 1,1,154,332,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006264.jpg 193,38,339,348,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008793.jpg 134,1,433,241,5
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005582.jpg 74,8,382,375,14 370,2,500,375,14 1,2,107,375,14 297,25,339,108,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003748.jpg 262,174,415,320,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009318.jpg 238,8,330,242,14 32,58,438,334,12 372,102,400,123,6 351,101,376,124,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001906.jpg 103,147,393,272,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009252.jpg 40,200,500,369,17 325,29,423,155,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000228.jpg 92,82,314,228,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008823.jpg 58,114,500,290,17
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007883.jpg 442,193,477,210,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001129.jpg 2,29,500,270,17 217,38,500,179,14 1,51,186,168,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003808.jpg 45,3,466,328,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001174.jpg 315,203,380,314,8 246,213,319,330,8 143,202,187,293,8 185,208,373,325,10
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009897.jpg 236,68,467,317,9 125,146,267,294,9
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004689.jpg 16,155,477,345,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001680.jpg 91,104,331,500,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001872.jpg 153,22,355,342,16
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007104.jpg 77,29,319,472,4
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002468.jpg 259,33,410,166,2 45,172,178,330,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008663.jpg 1,106,496,328,6 242,60,277,105,14 111,115,141,135,14 383,89,412,131,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002889.jpg 235,61,309,333,14 144,68,238,330,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003412.jpg 60,131,332,500,13 131,62,332,440,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002680.jpg 4,36,500,334,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008084.jpg 111,212,233,365,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004136.jpg 71,101,451,338,1 146,32,323,368,14 447,36,500,91,6 342,26,394,49,6 205,18,281,59,6 83,19,132,39,6 20,19,43,35,6 311,29,344,44,6 141,1,314,45,5
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004067.jpg 211,152,263,184,13 285,148,337,182,13
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003424.jpg 29,239,230,500,12 102,312,333,500,14 95,82,269,412,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003625.jpg 127,88,378,275,12 235,41,296,196,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007234.jpg 85,35,224,189,12 113,23,188,118,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008029.jpg 134,14,258,195,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003522.jpg 249,2,500,328,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002668.jpg 426,105,462,134,14 95,83,309,319,14 89,169,112,190,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001995.jpg 92,35,281,250,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002153.jpg 83,166,375,291,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000695.jpg 109,126,415,366,12 220,40,286,264,14 443,159,500,283,12 174,108,332,158,12 471,94,500,189,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004793.jpg 28,132,295,372,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007810.jpg 80,1,337,127,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000154.jpg 59,76,367,266,3
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009004.jpg 40,60,454,317,13 231,2,408,90,13
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001467.jpg 253,81,475,241,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001472.jpg 75,102,408,349,6 267,89,500,248,6 58,73,105,118,6 122,76,179,107,6 190,75,253,107,6 249,78,312,103,6 43,58,75,128,14 458,65,474,99,14 439,61,458,99,14 284,56,304,102,14 106,61,125,110,14 172,60,185,101,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001911.jpg 254,123,400,213,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001071.jpg 72,100,172,323,14 198,113,287,331,14 72,142,179,429,12 157,169,302,455,12
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001982.jpg 85,50,379,348,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008151.jpg 293,166,454,334,17 2,209,270,370,17 121,156,217,213,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005499.jpg 2,48,500,333,6 277,5,414,180,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002099.jpg 1,92,500,331,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008069.jpg 1,132,46,292,14 58,101,127,180,14 111,131,156,184,14 192,111,241,276,14 213,160,289,314,14 102,215,172,368,14 1,298,46,375,14 43,293,104,375,14 110,303,154,375,14 158,287,220,375,14 143,342,198,375,14 1,171,290,295,12 458,106,500,255,14 377,83,450,238,14 316,28,411,222,12
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000433.jpg 220,81,469,364,8 196,56,454,357,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008445.jpg 1,4,490,333,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007682.jpg 92,35,372,387,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001084.jpg 116,176,212,458,12 99,101,225,337,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008313.jpg 369,208,446,308,1 252,220,368,347,1 1,236,165,374,1 55,174,134,375,14 325,169,387,344,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009721.jpg 91,174,278,424,8 25,150,245,474,14 1,72,113,399,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009754.jpg 178,124,421,328,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000489.jpg 224,186,297,230,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002854.jpg 3,175,500,331,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005854.jpg 150,167,211,216,2 242,71,337,257,2 255,184,361,265,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000363.jpg 59,15,220,239,2 161,122,500,333,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000707.jpg 93,150,134,187,19 292,289,363,500,19 78,176,139,281,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002334.jpg 83,262,325,375,8 15,139,102,286,8 137,114,227,210,19 237,121,319,208,19 325,163,415,252,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005850.jpg 54,117,348,322,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002944.jpg 15,15,302,369,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004178.jpg 80,98,309,298,11 282,77,500,267,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005454.jpg 89,82,227,271,19 363,174,500,375,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008130.jpg 300,29,399,215,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006275.jpg 1,1,497,262,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002479.jpg 40,204,71,260,3 305,136,356,235,3
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008281.jpg 1,55,247,500,14 154,37,375,498,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009573.jpg 274,136,455,295,13 155,47,432,291,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002579.jpg 80,74,357,475,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000340.jpg 334,131,447,363,2 72,38,186,255,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005058.jpg 131,266,177,304,16 86,285,127,315,16
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002287.jpg 267,114,327,260,4 11,65,466,319,11 1,1,500,375,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005875.jpg 37,4,464,368,13
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003258.jpg 200,198,500,333,17 212,130,256,169,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002219.jpg 220,65,314,177,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003028.jpg 1,42,499,293,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001559.jpg 197,185,224,215,6 146,175,183,226,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008720.jpg 93,235,250,386,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009202.jpg 143,114,372,447,12 175,25,321,293,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005566.jpg 80,39,422,293,6 209,8,253,36,6 441,1,500,37,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004814.jpg 1,33,500,265,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004296.jpg 34,235,322,500,10 114,65,315,236,10 188,103,220,171,4 82,2,163,98,14 45,38,148,151,14 49,86,149,220,14 1,180,144,384,14 316,24,375,260,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007603.jpg 206,177,337,291,12
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005417.jpg 1,1,384,373,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009218.jpg 3,60,374,500,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000899.jpg 92,139,473,243,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001741.jpg 1,111,115,251,9 332,133,375,156,9
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006391.jpg 135,135,359,388,8 6,114,310,454,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001840.jpg 128,174,321,296,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006736.jpg 102,170,282,241,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007868.jpg 31,16,388,378,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003282.jpg 137,179,334,443,14 2,19,334,500,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000352.jpg 33,68,149,247,14 131,68,210,249,14 198,59,309,284,14 294,83,500,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005897.jpg 419,201,488,240,6 251,246,452,343,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008822.jpg 1,12,393,333,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007590.jpg 1,14,375,500,14 253,45,352,219,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007283.jpg 22,124,243,255,1 243,117,480,256,1 236,50,304,76,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006636.jpg 26,75,355,238,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004849.jpg 143,191,250,281,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001650.jpg 109,146,161,192,19 380,204,500,333,17 309,171,450,272,8
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002004.jpg 37,111,190,275,19 204,157,322,301,19 5,279,103,419,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002662.jpg 120,170,491,378,10 373,42,500,293,14 212,14,327,174,14 142,34,210,172,14 92,55,156,170,14 5,53,227,368,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001902.jpg 256,147,500,274,5 341,207,500,375,6 196,224,233,251,6 139,223,150,266,14 120,223,135,265,14 104,226,119,266,14 81,219,100,263,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002270.jpg 70,49,475,317,1
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008319.jpg 151,25,181,124,4 185,2,225,128,4 227,2,266,127,4 268,1,309,128,4 312,2,352,126,4 353,1,394,127,4 396,2,436,128,4 438,1,472,126,4 473,1,500,125,4 4,180,72,372,4 62,181,129,368,4 93,160,132,266,4 123,170,184,361,4 156,160,192,223,4 183,174,241,367,4 281,167,316,237,4 340,167,374,241,4 337,149,379,225,4 236,178,295,365,4 295,177,350,365,4 352,180,412,364,4 411,163,471,365,4 468,181,500,365,4
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009531.jpg 221,219,245,252,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009664.jpg 111,1,320,500,4
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008365.jpg 16,127,119,216,19 171,164,313,230,17
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008982.jpg 256,72,426,234,19 429,185,488,336,4
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006183.jpg 54,207,360,436,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009042.jpg 116,92,406,194,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008236.jpg 199,156,253,192,0 220,188,268,227,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004102.jpg 1,36,414,315,18 342,58,500,300,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005239.jpg 181,181,342,500,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000198.jpg 160,134,286,239,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003664.jpg 4,234,230,375,8 201,215,416,374,14 47,184,95,283,14 221,194,253,273,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000391.jpg 57,47,465,458,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002459.jpg 121,205,192,237,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000307.jpg 2,3,500,375,15 1,229,40,375,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001528.jpg 46,76,372,348,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000989.jpg 52,117,109,177,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008388.jpg 1,1,450,337,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003464.jpg 1,84,445,288,18
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007100.jpg 68,46,462,303,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002966.jpg 2,2,500,333,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007166.jpg 64,130,287,393,11 2,91,333,341,11 174,55,317,186,19
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007748.jpg 76,164,332,373,12 165,111,243,284,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008509.jpg 27,206,69,277,11 224,178,270,251,11 338,195,419,272,11 94,65,167,249,12 82,6,175,177,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008079.jpg 148,133,203,309,14 195,127,274,308,14 270,137,320,273,14 338,187,366,275,14 321,151,373,274,14 267,249,356,331,11 48,137,159,198,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004441.jpg 114,155,174,199,9
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001268.jpg 29,90,323,245,6 265,62,489,178,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004459.jpg 99,202,118,251,14 47,202,64,244,14 2,12,500,267,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006645.jpg 44,171,185,379,14 133,109,289,370,12
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009566.jpg 146,150,304,232,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002810.jpg 84,59,360,256,11
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006438.jpg 192,97,359,225,6 1,87,40,140,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000684.jpg 52,112,91,183,14 54,171,77,222,4 77,101,241,314,14 217,49,294,304,14 285,22,361,366,14 297,3,375,369,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001603.jpg 320,125,383,199,14 371,45,422,108,14 362,71,450,111,1 312,160,414,214,1
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005676.jpg 134,32,388,285,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000742.jpg 391,129,412,168,3 1,145,311,335,3 212,99,296,253,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001400.jpg 121,199,340,318,0
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001821.jpg 92,125,362,248,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006874.jpg 242,244,372,326,13 364,45,401,61,3 111,168,169,211,13 202,317,252,375,14 259,213,321,298,14 71,110,86,161,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009160.jpg 177,142,393,317,13 290,47,373,156,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001384.jpg 90,140,334,324,6 330,18,450,107,6 259,89,333,142,6
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005176.jpg 161,165,234,255,14 1,46,274,375,14 270,92,500,375,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001017.jpg 108,320,186,456,13 85,205,199,408,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003622.jpg 68,223,182,347,15 256,266,337,365,15 379,269,495,373,15
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009429.jpg 205,197,316,240,9
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001269.jpg 108,92,389,333,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005637.jpg 62,91,132,240,2 227,122,314,274,2 352,97,447,228,2
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006262.jpg 43,98,481,257,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001409.jpg 226,74,464,240,6 298,93,325,122,14 348,92,395,123,14
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007249.jpg 74,54,352,345,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003169.jpg 54,113,474,332,7
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002683.jpg 130,123,348,293,16
+/home/rain/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007622.jpg 2,1,497,330,6

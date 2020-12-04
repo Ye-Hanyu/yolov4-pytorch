@@ -4,3 +4,8 @@ nets/__pycache__/yolo4.cpython-37.pyc
 utils/__pycache__/utils.cpython-37.pyc
 model_data/yolo4_voc_weights.pth
 model_data/yolo4_weights.pth
+*.png
+*.jpg
+*.pth
+results/
+

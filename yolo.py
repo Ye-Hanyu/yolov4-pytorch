@@ -19,12 +19,12 @@ from utils.utils import non_max_suppression, bbox_iou, DecodeBox,letterbox_image
 #--------------------------------------------#
 class YOLO(object):
     _defaults = {
-        "model_path": 'model_data/yolo4_weights.pth',
+        "model_path": 'model_data/Epoch100-Total_Loss1.0553-Val_Loss1.0002.pth',
         "anchors_path": 'model_data/yolo_anchors.txt',
-        "classes_path": 'model_data/coco_classes.txt',
-        "model_image_size" : (416, 416, 3),
+        "classes_path": 'model_data/part_classes.txt',
+        "model_image_size": (416, 416, 3),
         "confidence": 0.5,
-        "iou" : 0.3,
+        "iou": 0.3,
         "cuda": True
     }
 
@@ -100,7 +100,7 @@ class YOLO(object):
     #---------------------------------------------------#
     #   检测图片
     #---------------------------------------------------#
-    def detect_image(self, image):
+    def detect_image(self, image, list):
         image_shape = np.array(np.shape(image)[0:2])
 
         crop_img = np.array(letterbox_image(image, (self.model_image_size[0], self.model_image_size[1])))
@@ -166,6 +166,12 @@ class YOLO(object):
             print(label)  # 标签
             print(left, top)  # 左上角点坐标
             print(right, bottom)  # 右下角点坐标
+            list.append((predicted_class, left, top, right, bottom))
+            # list[i].append(left)
+            # list[i].append(top)
+            # list[i].append(right)
+            # list[i].append(bottom)
+            print(list[i])
             if top - label_size[1] >= 0:
                 text_origin = np.array([left, top - label_size[1]])
             else:

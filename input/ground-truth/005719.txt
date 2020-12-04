@@ -1,0 +1,8 @@
+diningtable 178 166 500 375
+person 1 59 79 326
+person 45 48 102 203
+person 164 51 239 156
+person 244 33 323 196
+person 329 110 373 209
+person 333 119 465 247
+person 96 124 280 373

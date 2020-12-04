@@ -1,4 +1,5 @@
 {
     "python.pythonPath": "/home/rain/anaconda3/envs/yolov4/bin/python",
-    "python.formatting.provider": "black"
+    "python.formatting.provider": "black",
+    "git.ignoreLimitWarning": true
 }
