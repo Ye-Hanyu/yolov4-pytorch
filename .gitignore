@@ -7,5 +7,6 @@ model_data/yolo4_weights.pth
 *.png
 *.jpg
 *.pth
+*.txt
 results/
 
