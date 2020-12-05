@@ -19,7 +19,7 @@ from utils.utils import non_max_suppression, bbox_iou, DecodeBox,letterbox_image
 #--------------------------------------------#
 class YOLO(object):
     _defaults = {
-        "model_path": 'AdaBelief/Epoch100-Total_Loss3.9256-Val_Loss7.5532.pth',
+        "model_path": 'AdaB2SGD@50/Epoch100-Total_Loss3.3896-Val_Loss6.4298.pth',
         "anchors_path": 'model_data/yolo_anchors.txt',
         "classes_path": 'model_data/voc_classes.txt',
         "model_image_size": (416, 416, 3),
