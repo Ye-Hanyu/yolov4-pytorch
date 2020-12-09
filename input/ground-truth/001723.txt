@@ -1,2 +1,2 @@
-motorbike 82 192 308 476
-person 78 11 309 372
+gear-shaft 155 75 343 175
+gear1 210 185 368 348

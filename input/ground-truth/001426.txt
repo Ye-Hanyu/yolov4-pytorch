@@ -1,2 +1,4 @@
-motorbike 4 185 331 498
-person 3 3 222 498
+planet-carrier 146 59 293 188
+gear2 78 173 262 377
+gear1 341 41 499 208
+gear-shaft 318 191 463 423

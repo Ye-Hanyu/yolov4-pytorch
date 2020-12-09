@@ -1,1 +1,4 @@
-chair 92 35 281 250
+gear-shaft 143 66 207 237
+gear2 241 59 331 150
+planet-carrier 219 218 348 346
+gear1 322 175 425 283

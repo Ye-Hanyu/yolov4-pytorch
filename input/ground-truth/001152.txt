@@ -1,3 +1,1 @@
-bus 52 2 448 336
-person 200 113 272 336
-person 75 146 146 336
+planet-carrier 182 79 461 339

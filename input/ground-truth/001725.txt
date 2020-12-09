@@ -1,4 +1,2 @@
-tvmonitor 267 39 375 224
-tvmonitor 315 217 375 411
-tvmonitor 255 401 375 500
-person 1 113 285 390
+gear-shaft 162 40 308 254
+gear1 276 160 421 291

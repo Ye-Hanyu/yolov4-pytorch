@@ -1,1 +1,2 @@
-diningtable 26 86 500 332
+planet-carrier 231 235 443 415
+gear-shaft 387 163 611 291

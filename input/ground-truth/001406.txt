@@ -1,3 +1,4 @@
-dog 109 127 404 373
-person 1 36 417 303
-sofa 1 1 500 373
+gear-shaft 72 113 249 354
+planet-carrier 188 206 373 391
+gear2 261 25 441 195
+gear1 374 160 549 345

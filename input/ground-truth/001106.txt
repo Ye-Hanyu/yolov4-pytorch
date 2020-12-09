@@ -1,5 +1,1 @@
-chair 102 160 240 327
-chair 295 158 389 319
-chair 339 174 465 363
-chair 363 149 445 258
-diningtable 337 179 500 319
+planet-carrier 204 119 420 349

@@ -1,3 +1,2 @@
-sofa 1 1 499 372
-person 5 4 265 375
-person 176 35 346 255
+gear1 100 92 335 303
+planet-carrier 325 139 494 296

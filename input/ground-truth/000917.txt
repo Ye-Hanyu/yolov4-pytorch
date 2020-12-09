@@ -1,2 +1,2 @@
-pottedplant 2 2 265 355
-bird 265 163 316 214
+planet-carrier 267 129 441 299
+gear-shaft 290 313 557 421

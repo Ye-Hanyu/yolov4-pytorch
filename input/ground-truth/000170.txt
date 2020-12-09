@@ -1,5 +1,4 @@
-bottle 87 100 109 165
-bottle 41 114 73 181
-bottle 324 148 352 206
-person 3 91 43 206
-person 4 28 461 372
+planet-carrier 389 55 510 157
+gear-shaft 245 140 395 267
+gear1 395 194 511 300
+gear2 262 287 389 401

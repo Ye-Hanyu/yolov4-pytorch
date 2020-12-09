@@ -1,3 +1,4 @@
-bird 138 387 237 500
-person 13 75 300 373
-person 1 1 165 273
+planet-carrier 126 70 251 192
+gear-shaft 272 52 431 126
+gear2 274 160 384 272
+gear1 407 151 515 256

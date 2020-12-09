@@ -1,2 +1,0 @@
-pottedplant 62 44 244 302
-pottedplant 224 53 443 305

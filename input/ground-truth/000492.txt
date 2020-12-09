@@ -1,4 +1,3 @@
-chair 329 253 450 375
-chair 338 227 416 338
-chair 12 287 228 375
-diningtable 26 229 348 375
+gear-shaft 273 206 580 414
+gear2 56 167 277 363
+planet-carrier 216 77 407 204

@@ -1,4 +1,2 @@
-person 70 14 182 443
-person 33 167 190 500
-dog 1 425 62 475
-tvmonitor 3 280 71 384
+gear2 147 21 344 259
+gear-shaft 175 220 564 424

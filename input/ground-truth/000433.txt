@@ -1,2 +1,2 @@
-chair 220 81 469 364
-person 196 56 454 357
+planet-carrier 419 128 551 247
+gear-shaft 269 255 471 358

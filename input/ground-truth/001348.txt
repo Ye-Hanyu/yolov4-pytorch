@@ -1,1 +1,2 @@
-bird 163 52 313 210
+planet-carrier 75 167 274 361
+gear-shaft 382 63 553 301

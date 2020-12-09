@@ -1,2 +1,2 @@
-person 119 153 367 329
-tvmonitor 360 114 449 187
+planet-carrier 131 64 336 277
+gear-shaft 354 134 528 428

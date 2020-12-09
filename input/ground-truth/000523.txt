@@ -1,4 +1,2 @@
-person 145 103 209 256
-person 212 187 304 417
-person 343 228 361 255
-horse 45 199 362 408
+gear-shaft 448 190 592 451
+planet-carrier 117 213 337 398

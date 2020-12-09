@@ -1,4 +1,1 @@
-train 323 87 406 214
-car 61 168 125 202
-pottedplant 181 279 261 335
-pottedplant 259 299 350 335
+planet-carrier 151 74 462 296

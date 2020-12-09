@@ -1,4 +1,1 @@
-dog 1 235 182 388
-person 210 36 336 482
-person 46 82 170 365
-person 11 181 142 419
+planet-carrier 279 209 414 362

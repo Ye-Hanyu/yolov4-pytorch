@@ -1,1 +1,2 @@
-tvmonitor 52 117 109 177
+gear-shaft 164 62 387 186
+planet-carrier 232 221 413 407

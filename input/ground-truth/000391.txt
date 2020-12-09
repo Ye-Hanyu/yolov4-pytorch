@@ -1,1 +1,2 @@
-pottedplant 57 47 465 458
+gear1 254 179 383 287
+gear-shaft 383 275 573 391

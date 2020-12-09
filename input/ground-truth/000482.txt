@@ -1,3 +1,2 @@
-train 362 129 500 254
-train 1 54 313 330
-person 33 103 58 137
+gear1 273 326 358 410
+planet-carrier 191 252 278 324

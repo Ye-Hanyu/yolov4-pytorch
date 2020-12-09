@@ -1,2 +1,2 @@
-chair 30 209 243 374
-sofa 147 159 399 298
+planet-carrier 117 170 260 305
+gear-shaft 473 135 535 329

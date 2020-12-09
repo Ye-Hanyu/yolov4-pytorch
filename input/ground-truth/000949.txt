@@ -1,4 +1,3 @@
-bicycle 155 196 303 463
-bicycle 3 176 151 426
-person 145 36 328 412
-person 1 48 159 393
+gear2 150 79 284 209
+planet-carrier 362 55 490 183
+gear1 359 262 490 389

@@ -1,2 +1,0 @@
-aeroplane 203 103 345 177
-aeroplane 142 121 281 195

@@ -1,2 +1,0 @@
-aeroplane 94 8 465 122
-aeroplane 1 38 84 114

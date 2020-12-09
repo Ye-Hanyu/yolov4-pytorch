@@ -1,3 +1,4 @@
-tvmonitor 93 150 134 187
-tvmonitor 292 289 363 500
-chair 78 176 139 281
+planet-carrier 354 84 444 172
+gear-shaft 359 152 498 247
+gear2 231 249 365 385
+gear1 435 268 551 377

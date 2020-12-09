@@ -1,3 +1,2 @@
-sofa 2 29 500 270
-person 217 38 500 179
-person 1 51 186 168
+planet-carrier 23 81 291 312
+gear-shaft 269 91 568 327

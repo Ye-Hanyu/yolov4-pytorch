@@ -1,1 +1,3 @@
-boat 4 1 500 249
+gear1 117 61 271 203
+planet-carrier 273 187 467 334
+gear-shaft 395 120 635 191

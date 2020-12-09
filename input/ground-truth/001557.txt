@@ -1,2 +1,4 @@
-aeroplane 36 3 379 107
-person 399 79 421 125
+planet-carrier 44 95 223 259
+gear1 195 128 364 316
+gear2 335 86 493 240
+gear-shaft 240 207 509 367

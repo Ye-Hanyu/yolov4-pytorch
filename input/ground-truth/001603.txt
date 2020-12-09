@@ -1,4 +1,1 @@
-person 320 125 383 199
-person 371 45 422 108
-bicycle 362 71 450 111
-bicycle 312 160 414 214
+planet-carrier 182 71 430 319

@@ -1,1 +1,4 @@
-person 144 88 500 375
+planet-carrier 84 133 202 239
+gear-shaft 244 90 403 146
+gear1 207 226 335 362
+gear2 339 260 501 419

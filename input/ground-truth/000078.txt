@@ -1,2 +1,2 @@
-dog 15 75 475 412
-dog 94 41 437 238
+planet-carrier 144 163 320 275
+gear-shaft 368 237 566 430

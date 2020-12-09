@@ -1,2 +1,0 @@
-pottedplant 421 43 500 237
-person 95 77 394 330

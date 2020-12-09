@@ -1,1 +1,4 @@
-aeroplane 121 199 340 318
+gear-shaft 149 93 230 195
+planet-carrier 150 250 230 382
+gear2 289 70 391 189
+gear1 312 240 438 365

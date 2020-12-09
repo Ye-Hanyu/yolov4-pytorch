@@ -87,7 +87,7 @@ for image_id in tqdm(image_ids):
     image_path = "/home/rain/VOCdevkit/VOC2007/JPEGImages/"+image_id+".jpg"
     image = Image.open(image_path)
     # 开启后在之后计算mAP可以可视化
-    image.save("./input/images-optional/"+image_id+".jpg")
+    # image.save("./input/images-optional/"+image_id+".jpg")
     yolo.detect_image(image_id,image)
     
 print("Conversion completed!")

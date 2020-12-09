@@ -1,3 +1,1 @@
-tvmonitor 109 146 161 192
-sofa 380 204 500 333
-chair 309 171 450 272
+planet-carrier 102 183 344 424

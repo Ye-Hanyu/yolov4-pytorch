@@ -1,2 +1,4 @@
-tvmonitor 306 227 380 299
-person 196 143 309 369
+gear1 138 25 286 162
+gear2 95 240 288 400
+gear-shaft 323 34 469 169
+planet-carrier 453 38 589 140
