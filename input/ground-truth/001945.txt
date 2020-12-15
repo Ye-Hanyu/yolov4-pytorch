@@ -1,4 +1,0 @@
-gear1 182 85 313 217
-gear2 178 218 295 348
-gear-shaft 312 178 415 254
-planet-carrier 251 252 362 392

@@ -235,7 +235,7 @@ if __name__ == "__main__":
         Freeze_Epoch = 50
         Unfreeze_Epoch = 100
 
-        optimizer = optim.Adam(net.parameters(),lr,weight_decay=5e-4)
+        o-(),lr,weight_decay=5e-4)
         if Cosine_lr:
             lr_scheduler = optim.lr_scheduler.CosineAnnealingLR(optimizer, T_max=5, eta_min=1e-5)
         else:

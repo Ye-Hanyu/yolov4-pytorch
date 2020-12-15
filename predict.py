@@ -20,12 +20,12 @@ def edge(img, post):
     # cv2.imshow('1', edged)
     # cv2.waitKey()
     gray = cv2.cvtColor(crop, cv2.COLOR_BGR2GRAY)      # 转为灰度图
-    blurred = cv2.GaussianBlur(gray, (15, 15), 0)
-    edged = cv2.Canny(blurred, 30, 60)
-    cv2.imwrite(outpath + '/' + file + "edged.jpg", edged)         # 用Canny算子提取边缘
-    kernel = np.ones((21,21),np.uint8)
+    blurred = cv2.GaussianBlur(gray, (9, 9), 0)
+    edged = cv2.Canny(blurred, 30, 90)
+    # cv2.imwrite(outpath + '/' + file + "edged.jpg", edged)         # 用Canny算子提取边缘
+    kernel = np.ones((17, 17),np.uint8)
     closing = cv2.morphologyEx(edged, cv2.MORPH_CLOSE, kernel)
-    cv2.imwrite(outpath + '/' + file + "closing.jpg", closing) 
+    # cv2.imwrite(outpath + '/' + file + "closing.jpg", closing) 
     # cv2.imshow('1', closing)
     # cv2.waitKey()
     image2, contours, hierarchy = cv2.findContours(closing.copy(), cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)      # 轮廓检测
@@ -69,11 +69,13 @@ for file in files:  # 遍历文件夹
         # r_image.show()
         allbox.append(edge(imagecv, pos))
     for i in range(len(allbox)):
-        cv2.drawContours(imagecv, [allbox[i]], 0, (255, 0, 0), 2)     # 绘制轮廓最小外接矩形
+        print(allbox[i])
+        cv2.drawContours(imagecv, [allbox[i]], 0, (255, 0, 0), 3)     # 绘制轮廓最小外接矩形
         a = tuple(allbox[i][1])
-        cv2.putText(imagecv, list[i][0], a, cv2.FONT_HERSHEY_DUPLEX, 1, (0,255,0), 1)
+        
+        cv2.putText(imagecv, list[i][0], a, cv2.FONT_HERSHEY_DUPLEX, 1, (0,0,255), 2)
         cv2.imshow('1', imagecv)
-        cv2.waitKey(100)
+        cv2.waitKey(1000)
 
         
         # img_part.show()

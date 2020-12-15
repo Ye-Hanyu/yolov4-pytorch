@@ -9,4 +9,5 @@ model_data/yolo4_weights.pth
 *.pth
 *.txt
 results/
+onput/
 

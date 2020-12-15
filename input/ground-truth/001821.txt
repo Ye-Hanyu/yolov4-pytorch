@@ -1,2 +1,0 @@
-gear2 80 79 269 290
-planet-carrier 337 175 529 348

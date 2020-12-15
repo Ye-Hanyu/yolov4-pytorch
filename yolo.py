@@ -16,10 +16,12 @@ from utils.utils import non_max_suppression, bbox_iou, DecodeBox,letterbox_image
 #--------------------------------------------#
 #   使用自己训练好的模型预测需要修改2个参数
 #   model_path和classes_path都需要修改！
+
 #--------------------------------------------#
 class YOLO(object):
     _defaults = {
-        "model_path": 'AdaB-part/Epoch96-Total_Loss5.0574-Val_Loss2.9709.pth',
+        "model_path": 'SGD-part/Epoch100-Total_Loss13.5688-Val_Loss2.7273.pth',
+        # "model_path": 'train-result/Adam2SGD.pth',
         "anchors_path": 'model_data/yolo_anchors.txt',
         "classes_path": 'model_data/part_classes.txt',
         "model_image_size": (416, 416, 3),
