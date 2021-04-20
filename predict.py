@@ -17,33 +17,57 @@ yolo = YOLO()
 
 def edge(img, post):
     crop = img[post[1]:post[3], post[0]:post[2]]
-    # cv2.imshow('1', edged)
+    cv2.imwrite(outpath + '/' + file + "crop.jpg", crop)
+    # cv2.imshow('1', crop)
     # cv2.waitKey()
     gray = cv2.cvtColor(crop, cv2.COLOR_BGR2GRAY)      # 转为灰度图
     blurred = cv2.GaussianBlur(gray, (9, 9), 0)
+    cv2.imwrite(outpath + '/' + file + "blurred.jpg", blurred)
     edged = cv2.Canny(blurred, 30, 90)
-    # cv2.imwrite(outpath + '/' + file + "edged.jpg", edged)         # 用Canny算子提取边缘
-    kernel = np.ones((17, 17),np.uint8)
+    cv2.imwrite(outpath + '/' + file + "edged.jpg", edged)
+    # 用Canny算子提取边缘
+    kernel = np.ones((17, 17), np.uint8)
     closing = cv2.morphologyEx(edged, cv2.MORPH_CLOSE, kernel)
-    # cv2.imwrite(outpath + '/' + file + "closing.jpg", closing) 
+    cv2.imwrite(outpath + '/' + file + "closing.jpg", closing)
     # cv2.imshow('1', closing)
     # cv2.waitKey()
-    image2, contours, hierarchy = cv2.findContours(closing.copy(), cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)      # 轮廓检测
+    image2, contours, hierarchy = cv2.findContours(closing.copy(), cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)
+    # opencv 4.0 轮廓检测 3.x版本最前面需要加一个image2参数
     # cv2.imshow('1', image)
     # cv2.waitKey()
-    # cv2.drawContours(img, contours, -1, (0, 255, 0), 2)    # 绘制轮廓
+    
     # cv2.imshow('1', image)
     # cv2.waitKey()
     k = []  # 合并所有轮廓
     for i in range(len(contours)):
         if len(contours[i]) > len(k):
             k = contours[i]
+    crop2 = crop.copy()
+    cv2.drawContours(crop2, k, -1, (0, 255, 0), 2)    # 绘制轮廓
+    cv2.imwrite(outpath + '/' + file + "contours.jpg", crop2)
+
+    l = k.copy()
+    for i in range(len(k)):
+        l[i] = k[i] + [post[0], post[1]]
+
+    h, w, c = img.shape
+    mask = np.zeros((h, w), dtype=np.uint8)
+    cv2.fillPoly(mask, [l], (255, 255, 255))
+    cv2.imwrite(outpath + '/' + file + "mask.jpg", mask)
+    # cv2.imshow("mask", mask)
+    # cv2.waitKey(0)
+    result = cv2.bitwise_and(img, img, mask=mask)
+    # cv2.imshow("result", result)
+    # cv2.waitKey(0)
+    cv2.imwrite(outpath + '/' + file + "cut.jpg", result)
 
     rect = cv2.minAreaRect(k)   # 检测轮廓最小外接矩形，得到最小外接矩形的（中心(x,y), (宽,高), 旋转角度）
     box = np.int0(cv2.boxPoints(rect))   # 获取最小外接矩形的4个顶点坐标
     for i in range(4):
         box[i] = box[i] + [post[0], post[1]]
     # cv2.drawContours(img, [box], 0, (255, 0, 0), 2)     # 绘制轮廓最小外接矩形
+    # crop3 = img[box[1][1]:box[2][2], box[0]:box[2]]
+    # cv2.imwrite(outpath + '/' + file + "box.jpg", crop3)
     # cv2.imshow('1', img)
     # cv2.waitKey()
     return box
@@ -68,6 +92,7 @@ for file in files:  # 遍历文件夹
         # image.show()
         # r_image.show()
         allbox.append(edge(imagecv, pos))
+    
     for i in range(len(allbox)):
         print(allbox[i])
         cv2.drawContours(imagecv, [allbox[i]], 0, (255, 0, 0), 3)     # 绘制轮廓最小外接矩形

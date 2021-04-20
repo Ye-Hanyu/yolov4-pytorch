@@ -21,7 +21,7 @@ from utils.utils import non_max_suppression, bbox_iou, DecodeBox,letterbox_image
 class YOLO(object):
     _defaults = {
         "model_path": 'SGD-part/Epoch100-Total_Loss13.5688-Val_Loss2.7273.pth',
-        # "model_path": 'train-result/Adam2SGD.pth',
+        #"model_path": 'train-result/Adam.pth',
         "anchors_path": 'model_data/yolo_anchors.txt',
         "classes_path": 'model_data/part_classes.txt',
         "model_image_size": (416, 416, 3),
