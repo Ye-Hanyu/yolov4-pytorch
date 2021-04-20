@@ -15,51 +15,52 @@ files = os.listdir(path)
 yolo = YOLO()
 
 
-def edge(img, post):
+def edge(img, post, name):
     crop = img[post[1]:post[3], post[0]:post[2]]
-    cv2.imwrite(outpath + '/' + file + "crop.jpg", crop)
+    cv2.imwrite(outpath + '/' + name + "-crop.jpg", crop)
     # cv2.imshow('1', crop)
     # cv2.waitKey()
     gray = cv2.cvtColor(crop, cv2.COLOR_BGR2GRAY)      # 转为灰度图
-    blurred = cv2.GaussianBlur(gray, (9, 9), 0)
-    cv2.imwrite(outpath + '/' + file + "blurred.jpg", blurred)
+    blurred = cv2.GaussianBlur(gray, (9, 9), 0)       # 高斯模糊
+    cv2.imwrite(outpath + '/' + name + "-blur.jpg", blurred)
     edged = cv2.Canny(blurred, 30, 90)
-    cv2.imwrite(outpath + '/' + file + "edged.jpg", edged)
+    cv2.imwrite(outpath + '/' + name + "-edge.jpg", edged)
     # 用Canny算子提取边缘
     kernel = np.ones((17, 17), np.uint8)
-    closing = cv2.morphologyEx(edged, cv2.MORPH_CLOSE, kernel)
-    cv2.imwrite(outpath + '/' + file + "closing.jpg", closing)
+    closing = cv2.morphologyEx(edged, cv2.MORPH_CLOSE, kernel)    # 膨胀腐蚀处理
+    cv2.imwrite(outpath + '/' + name + "-closing.jpg", closing)
     # cv2.imshow('1', closing)
     # cv2.waitKey()
     image2, contours, hierarchy = cv2.findContours(closing.copy(), cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)
     # opencv 4.0 轮廓检测 3.x版本最前面需要加一个image2参数
     # cv2.imshow('1', image)
     # cv2.waitKey()
-    
-    # cv2.imshow('1', image)
-    # cv2.waitKey()
     k = []  # 合并所有轮廓
     for i in range(len(contours)):
         if len(contours[i]) > len(k):
             k = contours[i]
+    h, w, c = crop.shape
+    finaledge = np.zeros((h, w), dtype=np.uint8)
+    cv2.drawContours(finaledge, k, -1, (255, 255, 255), 2)   # 绘制轮廓
+    cv2.imwrite(outpath + '/' + name + "-finaledge.jpg", finaledge)
     crop2 = crop.copy()
-    cv2.drawContours(crop2, k, -1, (0, 255, 0), 2)    # 绘制轮廓
-    cv2.imwrite(outpath + '/' + file + "contours.jpg", crop2)
+    cv2.drawContours(crop2, k, -1, (0, 255, 0), 2)    # 在原图上绘制轮廓
+    cv2.imwrite(outpath + '/' + name + "-contours.jpg", crop2)
 
-    l = k.copy()
+    l = k.copy()   # 将轮廓坐标还原到原图
     for i in range(len(k)):
         l[i] = k[i] + [post[0], post[1]]
 
     h, w, c = img.shape
-    mask = np.zeros((h, w), dtype=np.uint8)
-    cv2.fillPoly(mask, [l], (255, 255, 255))
-    cv2.imwrite(outpath + '/' + file + "mask.jpg", mask)
+    mask = np.zeros((h, w), dtype=np.uint8)  # 创建空白掩膜图
+    cv2.fillPoly(mask, [l], (255, 255, 255))  # 利用轮廓生成掩膜
+    cv2.imwrite(outpath + '/' + name + "-mask.jpg", mask)
     # cv2.imshow("mask", mask)
     # cv2.waitKey(0)
-    result = cv2.bitwise_and(img, img, mask=mask)
+    result = cv2.bitwise_and(img, img, mask=mask)  # 利用掩膜提取原图零件
     # cv2.imshow("result", result)
     # cv2.waitKey(0)
-    cv2.imwrite(outpath + '/' + file + "cut.jpg", result)
+    cv2.imwrite(outpath + '/' + name + "-cut.jpg", result)
 
     rect = cv2.minAreaRect(k)   # 检测轮廓最小外接矩形，得到最小外接矩形的（中心(x,y), (宽,高), 旋转角度）
     box = np.int0(cv2.boxPoints(rect))   # 获取最小外接矩形的4个顶点坐标
@@ -83,15 +84,15 @@ for file in files:  # 遍历文件夹
     time_end = time.time()
     imagecv = cv2.cvtColor(np.asarray(image), cv2.COLOR_RGB2BGR)
     print('Time cost:', time_end-time_start)
-    print(list)   
-    for i in range(len(list)):
+    print(list)
+    for i in range(len(list)):  # 逐个零件进行检测轮廓
         pos = (list[i][1], list[i][2], list[i][3], list[i][4])
         # for j in range(len(list)):
         #     if j is not i:
         #         allpos.append((list[j][1], list[j][2], list[j][3], list[j][4]))
         # image.show()
         # r_image.show()
-        allbox.append(edge(imagecv, pos))
+        allbox.append(edge(imagecv, pos, list[i][0]))  # 将坐标统一进一个集合
     
     for i in range(len(allbox)):
         print(allbox[i])
@@ -105,5 +106,5 @@ for file in files:  # 遍历文件夹
         
         # img_part.show()
     
-    cv2.imwrite(outpath + '/' + file + "result.jpg", imagecv)
-    r_image.save(outpath + '/' + file + "result2.jpg")
+    cv2.imwrite(outpath + '/' + file + "-result.jpg", imagecv)
+    r_image.save(outpath + '/' + file + "-result2.jpg")
