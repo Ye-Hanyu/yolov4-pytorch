@@ -8,8 +8,8 @@ import os
 import cv2
 import numpy as np
 
-path = "./img"  # 文件夹目录
-outpath = "./result"
+path = "/home/ye/img/rgb"  # 文件夹目录
+outpath = "/home/ye/img/mask"
 files = os.listdir(path)
 
 yolo = YOLO()
@@ -17,12 +17,12 @@ yolo = YOLO()
 
 def edge(img, post, name):
     crop = img[post[1]:post[3], post[0]:post[2]]
-    cv2.imwrite(outpath + '/' + name + "-crop.jpg", crop)
+    # cv2.imwrite(outpath + '/' + name + "-crop.jpg", crop)
     # cv2.imshow('1', crop)
     # cv2.waitKey()
     gray = cv2.cvtColor(crop, cv2.COLOR_BGR2GRAY)      # 转为灰度图
     blurred = cv2.GaussianBlur(gray, (9, 9), 0)       # 高斯模糊
-    cv2.imwrite(outpath + '/' + name + "-blur.jpg", blurred)
+    # cv2.imwrite(outpath + '/' + name + "-blur.jpg", blurred)
     edged = cv2.Canny(blurred, 30, 90)
     cv2.imwrite(outpath + '/' + name + "-edge.jpg", edged)
     # 用Canny算子提取边缘
@@ -45,7 +45,7 @@ def edge(img, post, name):
     cv2.imwrite(outpath + '/' + name + "-finaledge.jpg", finaledge)
     crop2 = crop.copy()
     cv2.drawContours(crop2, k, -1, (0, 255, 0), 2)    # 在原图上绘制轮廓
-    cv2.imwrite(outpath + '/' + name + "-contours.jpg", crop2)
+    # cv2.imwrite(outpath + '/' + name + "-contours.jpg", crop2)
 
     l = k.copy()   # 将轮廓坐标还原到原图
     for i in range(len(k)):
@@ -76,13 +76,15 @@ def edge(img, post, name):
 
 for file in files:  # 遍历文件夹
     image = Image.open(path + "/" + file)
-    r_image = image.copy()
+    r_image = image.crop((640, 300, 1280, 780))
+    l_image = r_image.copy()
+    # r_image.show()
     time_start = time.time()
     list = []  # x1, y1, x2, y2
     allbox = []
-    yolo.detect_image(r_image, list)
+    yolo.detect_image(l_image, list)
     time_end = time.time()
-    imagecv = cv2.cvtColor(np.asarray(image), cv2.COLOR_RGB2BGR)
+    imagecv = cv2.cvtColor(np.asarray(r_image), cv2.COLOR_RGB2BGR)
     print('Time cost:', time_end-time_start)
     print(list)
     for i in range(len(list)):  # 逐个零件进行检测轮廓
@@ -106,5 +108,6 @@ for file in files:  # 遍历文件夹
         
         # img_part.show()
     
-    cv2.imwrite(outpath + '/' + file + "-result.jpg", imagecv)
-    r_image.save(outpath + '/' + file + "-result2.jpg")
+    cv2.imwrite(outpath + '/' + file + "-result.png", imagecv)
+    r_image.save(outpath + '/' + file + "-cut.png")
+    l_image.save(outpath + '/' + file + "-result2.png")
