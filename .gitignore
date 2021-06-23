@@ -8,6 +8,10 @@ model_data/yolo4_weights.pth
 *.jpg
 *.pth
 *.txt
+*.zip
 results/
-onput/
+model_data/
+input/
+img/
 
+predict.py
